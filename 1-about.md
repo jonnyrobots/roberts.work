@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-
 ## About
 
 ### A brief CV
