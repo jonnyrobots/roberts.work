@@ -13,7 +13,7 @@ I graduated from the University of Kent, Canterbury in 2006 with a BSc in [Multi
 The course was part of the [School of Engineering](https://www.kent.ac.uk/engineering-digital-arts), but with modules co-taught by the [University for the Creative Arts](https://www.uca.ac.uk/) and [Kent Business School](https://www.kent.ac.uk/kbs/).
 
 <figure>
-<img src="/images/kent-eng.jpg">
+<img src="{{ site.baseurl }}/images/kent-eng.jpg">
 <figcaption>School of Engineering at the University of Kent</figcaption>
 </figure>
 
