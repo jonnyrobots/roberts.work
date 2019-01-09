@@ -25,7 +25,7 @@ The developers were tasked with wrapping up the previous project, giving me time
 I'd read enough about "Lean UX" to be confident that the approach prescribed in Jeff Gothelf and Josh Seiden's book suited our needs.
 
 <figure>
-<img src="/images/lean-ux-book.jpg">
+<img src="{{ site.baseurl }}/images/lean-ux-book.jpg">
 <figcaption>The Lean UX book</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ I asked each developer to write down (as a sealed bid) the proportion of time th
 I visualised the entire process on the team dry-wipe board, so the team could understand the new process as we worked through it.
 
 <figure>
-<img src="/images/lean-board.jpg">
+<img src="{{ site.baseurl }}/images/lean-board.jpg">
 <figcaption>THe Lean UX board</figcaption>
 </figure>
 

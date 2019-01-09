@@ -43,7 +43,7 @@ What we didn't have covered was:
 + **Resources**: at the time Redgate was 100% Windows (Sketch: 100% Mac)
 
 <figure>
-<img src="/images/knoster.jpeg">
+<img src="{{ site.baseurl }}/images/knoster.jpeg">
 <figcaption>The Knoster Model - image from <a href="https://billcarozza.com/the-knoster-model-and-change-in-schools/" target="_blank">billcarozza.com</a></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ In March 2017 I encouraged them to each put together a small presentation and de
 
 
 <figure>
-<img src="/images/snt.png">
+<img src="{{ site.baseurl }}/images/snt.png">
 <figcaption>
 A still from the recording of our show and tell session
 </figcaption>

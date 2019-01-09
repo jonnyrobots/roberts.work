@@ -9,7 +9,7 @@ How writing is fundamental to the product development process.
 
 ## Writing: an unusual tool for research
 
-![Drill](/images/drill.png)
+![Drill]({{ site.baseurl }}/images/drill.png)
 
 Out picking up a new drill this weekend, I remembered a quote we sometimes refer to as we carry out our research projects:
 
@@ -37,7 +37,7 @@ We emulate this with “**concept demos**”. Using HTML, CSS and JavaScript (us
 
 #### Technology exploration
 
-![Screwdriver](/images/screwdriver.png)
+![Screwdriver]({{ site.baseurl }}/images/screwdriver.png)
 
 In the same way an architect may choose to explore the use of new materials or building techniques, we also write code to carry out **technology explorations** in order to evaluate new ways of delivering software, or get become more efficient in our approach to research.
 
@@ -63,7 +63,7 @@ Taking the time to write a blog post gives us the space and time to synthesise t
 
 ### Reflecting back
 
-![Spirit level](/images/level.png)
+![Spirit level]({{ site.baseurl }}/images/level.png)
 
 We write blog posts to achieve something similar to Reflective Listening; an interviewing method of confirming your understanding of what a participant is telling you. We invite our readers to comment on our posts. **Reflecting back** in this way confirms or corrects our understanding. More often than not it creates new opportunities for us to learn.
 
@@ -77,7 +77,7 @@ Because writing prototype code can be expensive — we call it prototype cod
 
 ### The complete toolkit
 
-![Toolkit](/images/toolbox.png)
+![Toolkit]({{ site.baseurl }}/images/toolbox.png)
 
 Indulge me as I hammer home the construction metaphor one last time. It’s important to pick the right tool for the job. We’ve found that writing code and blog posts make an enormous contribution to our objective of delivering new product opportunities to Redgate, but it’s important to create your own toolkit.
 

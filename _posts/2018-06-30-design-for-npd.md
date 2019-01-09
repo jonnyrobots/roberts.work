@@ -18,7 +18,7 @@ I’ve written previously about engineering in new product development, now I’
 
 ### Making sense of the unknown
 
-![The unknown]( /images/tangled.png)
+![The unknown]( {{ site.baseurl }}/images/tangled.png)
 
 The work of a designer is to rationalise. At Redgate we call this “making it Ingeniously Simple”. It’s easy to understand that designers operate well in the face of disarray, but “uncertainty” in new product development is different.
 
@@ -39,7 +39,7 @@ In this respect, a designer in new product development will be someone who is co
 
 ### Separating the signal from the noise
 
-![Signal](/images/signal.png)
+![Signal]({{ site.baseurl }}/images/signal.png)
 
 If we simplify the definition of research to mean a process of learning designed to get a clearer understanding of some thing, then it’s a little easier to explain why everyone in the team is responsible for research, regardless of their role.
 
@@ -62,7 +62,7 @@ A designer in new product development will remain **acutely aware of the differe
 
 ### Application of design
 
-![Application of design](/images/application.png)
+![Application of design]({{ site.baseurl }}/images/application.png)
 
 In Redgate’s Foundry, research forms around 70% of what a designer will do. The remaining 30% is what’s probably more traditionally thought of as digital product design. With a couple of twists.
 
@@ -78,7 +78,7 @@ What really makes a designer in new product development is their ability to appl
 
 ### Communication
 
-![Communication](/images/communication.png)
+![Communication]({{ site.baseurl }}/images/communication.png)
 
 The role of a designer working in new product development isn’t just about the discovery of a problem and the definition of a product to solve it. It’s also about being responsible for ensuring the rest of the organisation is equipped to be able to continue to design and develop for the products produced as a result of our work.
 

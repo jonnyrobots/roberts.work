@@ -26,7 +26,7 @@ I followed that with a role designing interfaces to spec for clients including I
 I moved on in 2012, and by 2014 I'd introduced [@geomonitors](https://twitter.com/geomonitors) to User Centered Design (UCD), designing energy systems for EDF at the London 2012 Olympics and the Foreign and Commonwealth Office.
 
 <figure>
-<img src="/images/geo.jpg">
+<img src="{{ site.baseurl }}/images/geo.jpg">
 <figcaption>Designing on a Mac</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The MVP is forever immortalised as a [Kickstarter Project](https://www.kickstart
 In 2014 I joined Redgate where I introduced [Lean UX](https://medium.com/@jonny_robots/moving-to-lean-ux-how-727361f8f7d2), taught other roles how to consider their users when developing applications and shared what I could with the UX community through talks and workshops. 
 
 <figure>
-<img src="/images/talking.jpg">
+<img src="{{ site.baseurl }}/images/talking.jpg">
 <figcaption>Giving a talk at UX Cambridge</figcaption>
 </figure>
 
@@ -50,6 +50,6 @@ We do that by identifying market trends and developing those into product opport
 If I'm not in the office, you'll find me at my desk or out on my bike.
 
 <figure>
-<img src="/images/cave.jpg">
+<img src="{{ site.baseurl }}/images/cave.jpg">
 <figcaption>My "cave"</figcaption>
 </figure>
