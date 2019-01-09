@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: roberts.work/about/
+permalink: /about/
 ---
 
 ## About
