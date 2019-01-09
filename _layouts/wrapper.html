@@ -21,7 +21,7 @@
            <nav class="Navbar__Items Navbar__Items--center">
             {% for page in site.html_pages %}
             {% unless page.exclude %}
-                <div class="Navbar__Link"><span><a href="{{ site.url }}{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></span></div>
+                <div class="Navbar__Link"><span><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></span></div>
             {% endunless %}
             {% endfor %}
            </nav>
