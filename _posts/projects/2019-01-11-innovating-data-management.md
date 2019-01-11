@@ -22,9 +22,9 @@ This project culminated in the creation of [Spawn](https://spawn.cc), an innovat
 
 The three primary challenges to this project were:
 
-+ identifying and analysing market and technology trends
-+ innovating an improved experience in an existing problem space 
-+ balancing progress with stakeholder communications
++ identifying and **analysing market and technology trends**
++ **innovating towards an improved experience** for an existing problem 
++ balancing progress with **stakeholder communications**
 
 The main outcomes of the project were;
 
