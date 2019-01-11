@@ -10,10 +10,11 @@ From open-ended research project to technology innovation
 
 ## Product innovation
 
-
 One of the hardest things to do in new product development is to forge something real (and valuable) from intuition.
 
-This project culminated in the creation of [Spawn](https://spawn.cc), an innovative solution to the problem of data management. 
+This project began with the hypothesis that a more compelling, and simpler experience could be acheived for data management within DevOps.
+
+This project culminated in the creation of [Spawn](https://spawn.cc), an innovative solution to the problem of data management in modern development environments. 
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/58BGDmrHsEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,16 +22,16 @@ This project culminated in the creation of [Spawn](https://spawn.cc), an innovat
 
 The three primary challenges to this project were:
 
-+ analysing market trends and identifying valuable problems
-+ innovating on the status quo, and developing a creative solution 
-+ managing stakeholders, maintaining progress and improving comms
++ identifying and analysing market and technology trends
++ innovating an improved experience in an existing problem space 
++ balancing progress with stakeholder communications
 
 The main outcomes of the project were;
 
 + a new approach to **communication**
-+ the company having a  **better understanding of the market**, 
-+ a new **ideation method** and 
-+ an **innovative new technology**.
++ delivering a  **better understanding** of tech trends 
++ adoption of a new **ideation method** and 
++ an **innovative new technology**
 
 ### Pinpointing the problem
 
