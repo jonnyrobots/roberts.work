@@ -12,7 +12,7 @@ From open-ended research project to technology innovation
 
 One of the hardest things to do in new product development is to forge something real (and valuable) from intuition.
 
-This project began with the hypothesis that a more compelling, and simpler experience could be acheived for data management within DevOps.
+This project began for my team with the hypothesis that a more compelling, and simpler experience could be acheived for data management within DevOps.
 
 This project culminated in the creation of [Spawn](https://spawn.cc), an innovative solution to the problem of data management in modern development environments. 
 
