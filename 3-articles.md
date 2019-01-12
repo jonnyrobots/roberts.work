@@ -12,7 +12,7 @@ permalink: /articles/
 
 {% for post in site.categories.article reversed  %}
     <li>
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
         <p>{{ post.excerpt }}</p>
     </li>
 {% endfor %}
