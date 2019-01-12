@@ -54,7 +54,7 @@ This produced a heat map highlighting areas of interest from which we could begi
 <figcaption>Mapping the database DevOps landscape (heat map lenses not shown)</figcaption>
 </figure>
 
-***Outcome:** the artefact continues to be valuable for Redgate, informing decisions elsewhere, including; marketing, product and acquisition strategies.* 
+***Outcome:** reduced ambiguity and allowed the project to continue. The artefact also proved valuable for Redgate by informing decisions elsewhere, including marketing, product and acquisition strategies.* 
 
 ### Ideation
 

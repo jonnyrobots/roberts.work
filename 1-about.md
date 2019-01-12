@@ -41,11 +41,9 @@ In 2014 I joined Redgate where I introduced [Lean UX](https://medium.com/@jonny_
 <figcaption>Giving a talk at UX Cambridge</figcaption>
 </figure>
 
-Which brings me to today; leading [Redgate's](https://www.red-gate.com/) research, design and development team.
+Which brings me to today; leading [Redgate's](https://www.red-gate.com/) research, design and development team. It's a role that involves managing a team of software engineers, designers and researchers. 
 
-It's a role that involves managing a team of software engineers, designers and researchers. Our mission is to help the executive team to make well informed decisions on what to investment in. 
-
-We do that by identifying market trends and developing those into product opportunities.
+Our mission is to help the executive team to make well informed decisions on what to invest in. We do that by **researching** trends, developing **new technology** and **bringing new products to market**.
 
 If I'm not in the office, you'll find me at my desk or out on my bike.
 
