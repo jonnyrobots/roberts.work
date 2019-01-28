@@ -20,7 +20,9 @@ Making more research calls, and writing more code is good for progress. These ga
 
 There are three cohorts I like to think about when considering the cost we'll incur for failing to communicate routinely: 
 
-Our **customers**, our **chiefs** and our **company** (_Alliteration?_ ✅. _Rule of three?_ ✅.). 
+Our **customers**, our **chiefs** and our **company** 
+
+(_Alliteration?_ ✅, _Rule of three?_ ✅...) 
 
 ### Our customers
 
