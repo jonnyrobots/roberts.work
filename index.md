@@ -4,6 +4,7 @@
 
 layout: home
 exclude: true 
+title: Hi 👋
 ---
 
 <img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/>
