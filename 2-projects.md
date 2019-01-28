@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+exclude: true 
 ---
 
 <h1>Projects</h1>

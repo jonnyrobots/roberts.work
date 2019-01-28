@@ -6,7 +6,7 @@ permalink: /articles/
 
 <h2>Articles</h2>
 ### Calls, code and comms.
-<p>A series of posts about what makes research, design and development teams successful.</p>
+<p>A series of posts about what makes research, design and development teams successful at creating new products.</p>
 
 <ul>
 

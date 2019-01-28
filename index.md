@@ -6,9 +6,10 @@ layout: home
 exclude: true 
 ---
 
+<img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/>
 
 <h1>Hi, I'm Jonathan</h1>
-### I’m a product designer who helps companies develop their ideas into successful products
+### I’m a product designer & researcher who helps companies develop their ideas into successful products
 
 #### Currently
 I’m helping <a href="https://www.red-gate.com/" target="_blank">@redgate</a> evolve its product portfolio, leading the team responsible for the research and development of new products for data professionals. 
