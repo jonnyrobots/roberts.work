@@ -7,8 +7,12 @@ categories: article
 
 How writing is fundamental to the product development process.
 
+<<<<<<< HEAD
 ## Writing code
 ### An unusual tool for research
+=======
+## Writing code: an unusual tool for research
+>>>>>>> fab467504ea03f597e906e25e0db70476983e6ef
 
 ![Drill]({{ site.baseurl }}/images/drill.png)
 
