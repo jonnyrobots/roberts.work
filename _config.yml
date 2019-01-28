@@ -18,8 +18,8 @@ email: jonathan@roberts.work
 description: >- # this means to ignore newlines until "baseurl:"
    Jonathan Roberts is a product designer and researcher who helps 
    companies develop their ideas into successful products
-baseurl: "/roberts.work" # the subpath of your site, e.g. /blog
-url: "https://jonnyrobots.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://roberts.work" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonny_robots
 github_username:  jonnyrobots
 
