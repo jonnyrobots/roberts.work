@@ -1,21 +1,13 @@
 ---
 layout: post
-<<<<<<< HEAD
 title:  "Pt.1 - Making calls: design for new product development"
-=======
-title:  "Pt.1 Making calls: design for new product development"
->>>>>>> fab467504ea03f597e906e25e0db70476983e6ef
 date:   2018-06-30 19:31:12 +0000
 categories: article
 ---
 
 The role and mindset of a designer working in new product development
 
-<<<<<<< HEAD
 ## Making calls
-=======
-## Making calls 
->>>>>>> fab467504ea03f597e906e25e0db70476983e6ef
 ### Design for new product development 
 
 It’s my job to look after a team who work on new product development. We’re a group of designers and software engineers who work alongside specialists in innovation, acquisition and product strategy in [Foundry](https://www.red-gate.com/foundry/), [Redgate](https://www.red-gate.com/)’s research and development division. It’s our responsibility to come up with the next multi-million dollar revenue product for our company.
