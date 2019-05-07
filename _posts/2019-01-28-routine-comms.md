@@ -1,69 +1,90 @@
 ---
 layout: post
-title:  "Pt.3 - Routine comms: the importance of stakeholder engagement"
+title:  "Pt.3 - Comms: the price of communication"
 date:   2019-01-28 15:31:12 +0000
 categories: article
 ---
 
-How communication is critical in product research and development.
+What’s the correlation between the price you’re willing to pay for communication and the effect on stakeholder management?
 
-## Routine comms
-### The importance of stakeholder engagement
+### Foreward
+*In the middle of 2018 the team was suffering the consequences of my apathetic approach to stakeholder management.*
 
-For people with a vested interest in our project, our ability to communicate with them is as important as the **research** and **development** itself.
+*I wrote this while reflecting on my scrabble to work out what was going wrong and why (hint: poor communication).*
 
-Effective communication requires a time commitment. When you're a Lean team balancing research with development, it's easy to consider it an overhead.
+*It’s written with the full benefit of hindsight as an instructional note to my future self, and published here in the hope you also find it useful.*
 
-Making more research calls, and writing more code is good for progress. These gains are easily mitigated when comms are lacking.
+<hr/>
 
-## Communication cohorts
+## What do comms “cost”?
+Communicating effectively with the people who have a vested interest in your project is important. Doing that across your organisation can be expensive.
 
-There are three cohorts I like to think about when considering the cost we'll incur for failing to communicate routinely: 
+Effective communication requires a time commitment. As a lean team balancing research with development, it’s easy to feel it’s an overhead.
 
-Our **customers**, our **chiefs** and our **company** 
+Carrying out more research calls, and writing more code feels like progress. How much are we willing to pay for comms by taking away from progress?
 
-(_Alliteration?_ ✅, _Rule of three?_ ✅...) 
+For those with an interest in our projects, effective communication — their understanding of what we’re doing — is as important as the research & development itself.
+
+**Because our progress is easily mitigated by lacklustre comms.**
+
+## Who do we need to communicate with?
+There are three cohorts I must think about when considering the costs incurred for failing to communicate routinely.
+
+The **customers**, the **chiefs** and the **company**. Alliteration helps the memory.
 
 ### Our customers
 
-Releases are opportunities to (re)engage with our customer. 
+Releases are opportunities to engage with our customer. Even a “New update available” message is a communication. However small, it says “someone is working on this product”.
 
-Even the "new update available" message is a valuable micro communication (that the product is being worked on, for example).
+Our research data gives us confidence to invest in the next round of development. Short development cycles create frequent releases. And more micro communications.
 
-Our research data provides confidence to invest in the next round of development. Short development cycles create frequent releases.  
+#### What happened last time?
 
-Now imagine us completing research that's provided the confidence to embark on a bigger piece of development work over several sprints.
+We got enough confidence to embark on a bigger piece of development work. Something valuable that would take several weeks to deliver to customers.
 
-If our release cycle has been the sole communication method, then we're about to enter into a state of radio silence.
+However, our release cycle had been the sole communication method with our customers. We inadvertently entered into a period of radio silence.
 
-The next time we come to really engage with our customers, they're going to take longer to warm up to talking to us. 
+When it came time to re-engage with customers about what we’d delivered, they took longer to warm up to those conversations.
 
-### Our chiefs
+***Risk to progress**: those customers could have chosen to move on entirely*.
 
-The chiefs are the people who invest in the opportunities we uncover. 
+#### Our chiefs
 
-As we carry out research, we immerse ourselves in learning more about the problem we've identified. We get excited about the opportunity. 
+The chiefs are the people who pay us to uncover opportunities for new businesses, and products, and features. And they invest in them when we do.
 
-By their nature, ideas in their infancy aren't well-formed. They're difficult to describe. Innovation doesn't reflect the status quo.
+As we carry out research, we immerse ourselves in the detail. We get excited about all the possibilities.
 
-The chiefs don't have the benefit of immersion. They still have to understand the opportunity/innovation in order to invest further.
+Ideas in their infancy aren’t well-formed. It’s rare that real innovation is easily described with the language of the status quo. They’re difficult to explain.
 
-Choosing to focus ours efforts on developing the solution and growing the user base, and less on comms, creates a vacuum for later.   
+#### What happened last time?
 
-The next time we have to ask for more investment, it's going to take us longer to bring about the same level of enthusiasm in the chiefs.
+We began working on a new project as a reaction to research data that was complex, but identified a great opportunity for a new product.
+
+We did this without first properly communicating the research data to give context and understanding. Because it was hard.
+
+The chiefs don’t have the benefit of immersion. But they still have to understand the opportunity, or the innovation, in order to invest confidently.
+
+Choosing to focus on developing a solution and user base— and less on comms — created a vacuum we had to fill later, in more fraught conditions.
+
+***Progress risk**: we could’ve lost the trust of those who invest in our projects*.
 
 ### Our company
 
-The company is a machine able to execute on proven opportunities. 
+The company is the machine that’s ready to execute on the new product opportunities we’ve proven.
 
-Having achieved product/market, we now have the benefit of dedicated engineering, sales and marketing functions. 
+Having achieved product-market fit, we now have the benefit of dedicated engineering, sales and marketing functions.
 
-Sometimes, we see how a new technology can provide a novel and innovative solution to the customer problem we're working on. 
+#### What happened last time?
 
-As we build out the prototype product, we learn how to harness that technology. Sure, we make mistakes, but our understanding grows. 
+We saw how a new technology could provide an innovative and novel solution to a long-standing customer problem.
 
-We can choose to favour technical progress over sharing technical knowledge. This creates a cost at execution time. 
+We chose to favour technical progress (lines of code) over sharing our new found technical knowledge. Our understanding grew, but it didn’t elsewhere.
 
-In this example, it's the engineering function that's not ready to execute on developing the product further. 
+If we’d hit the point where we needed to scale, the broader engineering function wouldn’t have been ready to take it on.
 
-In other examples, the new product may challenge the business model, or the marketing approach. Communicating these is our cost to carry.
+It will have needed time to adjust to this new technology.
+
+***Progress risk**: our engineering colleagues could have rejected the technology outright*.
+
+## In short
+Communicating early and frequently is a price worth paying.
