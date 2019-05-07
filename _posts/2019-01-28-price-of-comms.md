@@ -7,14 +7,13 @@ categories: article
 
 What’s the correlation between the price you’re willing to pay for communication and the effect on stakeholder management?
 
-### Foreward
+**Foreward**
+
 *In the middle of 2018 the team was suffering the consequences of my apathetic approach to stakeholder management.*
 
 *I wrote this while reflecting on my scrabble to work out what was going wrong and why (hint: poor communication).*
 
 *It’s written with the full benefit of hindsight as an instructional note to my future self, and published here in the hope you also find it useful.*
-
-<hr/>
 
 ## What do comms “cost”?
 Communicating effectively with the people who have a vested interest in your project is important. Doing that across your organisation can be expensive.
@@ -27,7 +26,7 @@ For those with an interest in our projects, effective communication — thei
 
 **Because our progress is easily mitigated by lacklustre comms.**
 
-## Who do we need to communicate with?
+## Who to communicate with?
 There are three cohorts I must think about when considering the costs incurred for failing to communicate routinely.
 
 The **customers**, the **chiefs** and the **company**. Alliteration helps the memory.
@@ -38,7 +37,7 @@ Releases are opportunities to engage with our customer. Even a “New update ava
 
 Our research data gives us confidence to invest in the next round of development. Short development cycles create frequent releases. And more micro communications.
 
-#### What happened last time?
+**What happened last time?**
 
 We got enough confidence to embark on a bigger piece of development work. Something valuable that would take several weeks to deliver to customers.
 
@@ -56,7 +55,7 @@ As we carry out research, we immerse ourselves in the detail. We get excited abo
 
 Ideas in their infancy aren’t well-formed. It’s rare that real innovation is easily described with the language of the status quo. They’re difficult to explain.
 
-#### What happened last time?
+**What happened last time?**
 
 We began working on a new project as a reaction to research data that was complex, but identified a great opportunity for a new product.
 
@@ -74,7 +73,7 @@ The company is the machine that’s ready to execute on the new product opportun
 
 Having achieved product-market fit, we now have the benefit of dedicated engineering, sales and marketing functions.
 
-#### What happened last time?
+**What happened last time?**
 
 We saw how a new technology could provide an innovative and novel solution to a long-standing customer problem.
 
