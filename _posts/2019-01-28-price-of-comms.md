@@ -5,7 +5,7 @@ date:   2019-01-28 15:31:12 +0000
 categories: article
 ---
 
-What’s the correlation between the price you’re willing to pay for communication and the effect on stakeholder management?
+What’s the effect of communication on stakeholder management?
 
 **Foreward**
 
