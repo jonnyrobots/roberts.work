@@ -4,4 +4,4 @@ title: Redirecting...
 permalink: /you-dont-need-a-ux-designer/
 ---
 
-Page renders
+Redirect failed - <a href="https://vimeo.com/156163594">try again</a>.
