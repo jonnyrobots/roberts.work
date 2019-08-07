@@ -5,14 +5,28 @@ permalink: /articles/
 ---
 
 <h2>Articles</h2>
+### Sabbatical project
+<p>I took a sabbatical to work on a research project exploring design software for complex, GUI-agnostic systems.</p>
+
+<ul>
+
+{% for post in site.categories.sabbatical reversed  %}
+    <li>
+        <p><span class="pdate"></span></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a> ({{ post.date | date_to_long_string }})</p>
+        <p>{{ post.excerpt }}</p>
+    </li>
+{% endfor %}
+</ul>
+<br/>
+
 ### Calls, code and comms.
 <p>A series of posts about what makes research, design and development teams successful at creating new products.</p>
 
 <ul>
-
 {% for post in site.categories.article reversed  %}
     <li>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})</p>
         <p>{{ post.excerpt }}</p>
     </li>
 {% endfor %}
