@@ -5,20 +5,6 @@ permalink: /articles/
 ---
 
 <h2>Articles</h2>
-### Sabbatical project
-<p>I took a sabbatical to work on a research project exploring design software for complex, GUI-agnostic systems.</p>
-
-<ul>
-
-{% for post in site.categories.sabbatical reversed  %}
-    <li>
-        <p><span class="pdate"></span></p>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a> ({{ post.date | date_to_long_string }})</p>
-        <p>{{ post.excerpt }}</p>
-    </li>
-{% endfor %}
-</ul>
-<br/>
 
 ### Calls, code and comms.
 <p>A series of posts about what makes research, design and development teams successful at creating new products.</p>
@@ -31,9 +17,9 @@ permalink: /articles/
     </li>
 {% endfor %}
 </ul>
-<br/>
 
 <h2>Talks</h2>
+### Recordings and slides 
 <ul>
     <li>
         <p><a href="https://speakerdeck.com/jonny_robots/introduction-to-the-design-studio-methodology" target="_blank">Introduction to Design Studio <i class="fas fa-external-link-alt icon"></i></a> (2016) </p>
@@ -49,3 +35,18 @@ permalink: /articles/
     </li>
 </ul>
 
+<h2>Sabbatical</h2>
+### 2019  
+<p>I took a sabbatical to work on a research project exploring design software for complex, GUI-agnostic systems.</p>
+
+<ul>
+
+{% for post in site.categories.sabbatical reversed  %}
+    <li>
+        <p><span class="pdate"></span></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a> ({{ post.date | date_to_long_string }})</p>
+        <p>{{ post.excerpt }}</p>
+    </li>
+{% endfor %}
+</ul>
+<br/>
