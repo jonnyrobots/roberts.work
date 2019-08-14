@@ -10,23 +10,23 @@ Ethically weak software is the outcome of the poor application of design.
 # Design ethics and software design
 ### Where bad products come from 
 
-Ethically weak software is the outcome of deploying design to the wrong part of your product. I’m convinced there’s a link between where companies choose to apply their design effort, and the growing number of stories about naughty software<a href="#1"><sup>1</sup></a>. 
+Ethically weak software may be the outcome of deploying design to the wrong area of your product. My suspicion is that there’s a link between where companies choose to apply their design effort, and the growing number of stories about naughty software<a href="#1"><sup>1</sup></a>. 
 
-As the general wisdom goes, you start with generalists before adding in specialists later. There’s a graph to illustrate this in “Intercom on starting up“: 
+As prevailing wisdom goes, you start with generalists before adding in specialists later. There’s a graph to illustrate this in “Intercom on starting up“: 
 
 ![Generalists:Specialists]({{ site.baseurl }}/images/intercom-specialists.jpg)
 
 Assuming the right-most bar was representative of Intercom around the same time the book was published (2017), 75% of their (then) ~230 staff<a href="#2"><sup>2</sup></a> would be considered generalists.
 
-If the majority of the design staff you employ when starting a company – or indeed a project – are specialists, then it stands to reason that you could end up with great execution on terrible ideas.
+Specialists have laser focus on one thing. If the majority of the design staff you employ when starting a company – or indeed a project – are specialists, then it stands to reason that you could end up with great execution on terrible ideas. 
 
-It’s possible they’re not, and they just don’t care, but I think it’s more likely they just [don’t realise](https://en.wikipedia.org/wiki/Hanlon%27s_razor). 
+Are the specialists aware of what they're contributing to? Maybe they are. Maybe they don’t care. Maybe they just [don’t realise](https://en.wikipedia.org/wiki/Hanlon%27s_razor). Systems are complex.
 
 I asked a Software Engineer about a programme they were in charge of. This initiative involved at least 20 other humans and ran over 10 months each year. What I wanted to know was how *they* knew how it all hung together; “It’s in my head. It’s pretty simple.”.
 
-We tested that assumption by setting aside 90 minutes (“do you think we’ll need that long?”) for them to draw me a [rich picture](https://en.wikipedia.org/wiki/Rich_picture). Two hours later they’d hit the edges of the paper, identified new connections and seen the complexity that exists in even “simple” systems.
+We tested that assumption by setting aside 90 minutes (“do you think we’ll need that long?”) for them to draw me a [rich picture](https://en.wikipedia.org/wiki/Rich_picture). Two hours later they’d hit the edges of the paper, identified new connections and had seen the complexity that exists in even “simple” systems.
 
-So what chance would you stand when designing the interface, for example, of a more complex system? Perhaps drawing a rich picture is a good start short-term. Then what? Redesign your design culture? Only employ [licensed designers](https://www.fastcompany.com/90161166/this-design-generation-has-failed)?
+So what chance would you stand when designing the interface, for example, of a more complex system? How do you ensure that system is not damaging? Perhaps drawing a rich picture is a good start short-term. Then what? Redesign your design culture? Only employ [licensed designers](https://www.fastcompany.com/90161166/this-design-generation-has-failed)?
 
 <hr/>
 
