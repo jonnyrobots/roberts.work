@@ -10,7 +10,7 @@ permalink: /articles/
 <p>A series of posts about what makes research, design and development teams successful at creating new products.</p>
 
 <ul>
-{% for post in site.categories.article reversed  %}
+{% for post in site.categories.article %}
     <li>
         <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})</p>
         <p>{{ post.excerpt }}</p>
