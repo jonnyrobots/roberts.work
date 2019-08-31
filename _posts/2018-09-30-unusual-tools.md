@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pt.2 - Writing code: an unusual tool for research"
+title:  "Writing code: an unusual tool for research"
 date:   2018-09-30 19:31:12 +0000
 categories: article
 ---

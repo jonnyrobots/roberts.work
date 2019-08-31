@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pt.1 - Making calls: design for new product development"
+title:  "Making calls: design for new product development"
 date:   2018-06-30 19:31:12 +0000
 categories: article
 ---

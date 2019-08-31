@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pt.3 - Comms: the price of communication"
+title:  "Comms: the price of communication"
 date:   2019-01-28 15:31:12 +0000
 categories: article
 ---
