@@ -45,7 +45,7 @@ Which brings me to today; leading [Redgate's](https://www.red-gate.com/) researc
 
 Our mission is to help the executive team to make well informed decisions on what to invest in. We do that by **researching** trends, developing **new technology** and **bringing new products to market**.
 
-If I'm not in the office, you'll find me at my desk or out on my bike.
+If I'm not in the office, you'll find me at my desk writing [Designance](https:designance.substack.com) or out on my bike.
 
 <figure>
 <img src="{{ site.baseurl }}/images/cave.jpg">
