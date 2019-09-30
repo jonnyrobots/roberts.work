@@ -170,4 +170,14 @@ thead {text-align: left;}
     text-align: center;
   }
 
+/* make iframes behave*/
+
+.h_iframe, iframe {
+    width:100%;
+    margin: 0 0 1.2em;
+}
+.h_iframe {
+    width:100%;
+}
+
     
