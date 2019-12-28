@@ -7,10 +7,10 @@ categories: sabbatical
 
 The reason my project ground to a halt. **⏰ 2 min read**.
 
-_I’ve been thinking about the reason my sabbatical project appears to have ground to a halt in the last few months of this year…_
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Just sitting here contemplating the reason my sabbatical project appears – outwardly, at least – to have ground to a halt...</p>&mdash; Jonathan Roberts (@jonny_robots) <a href="https://twitter.com/jonny_robots/status/1210729659463135242?ref_src=twsrc%5Etfw">28 December 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-—  
-
+<br/>
 I had 12 weeks off in 2019 (lucky me), of which half was a sabbatical. I dedicated half again to getting better at writing. 
 
 Getting better at writing <strike>was</strike> will always be step one in a longer term project to develop a product of my own. Getting better at writing just seemed more achievable within three weeks. 
