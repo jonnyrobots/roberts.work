@@ -31,7 +31,7 @@ The briefing contains everything: the weeks' mission (and our approach), sales p
 
 Reading back through the last three months of these, I can see this has been the most interesting research (ie. learn about the business) and design (ie. deliver a product strategy) project that I've ever worked on and… the most frustrating.
 
-I cannot find a coherent and compelling way to tell this story. Not without adding context, at least. It’s the context – and the aha moments – that makes the story. And it’s the context that would most benefit our competitors. 
+I cannot find a coherent and compelling way to tell this story without adding context that would benefit competitors.
 
 I worried this was a limitation in my ability to write, until I read “[The public invisibility of running mid-stage successful companies](https://blog.asmartbear.com/ceo-blogging.html)” by [@asmartbear](https://twitter.com/asmartbear):
 
