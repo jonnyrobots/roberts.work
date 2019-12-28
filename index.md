@@ -9,9 +9,8 @@ title: Hi 👋
 
 <img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/>
 
-<h1>Hi, I'm Jonathan</h1>
-### I’m a designer & researcher who helps develop ideas into successful products, and products into successful businesses
-
+<h1>Hi, I'm Jonny. <span style="font-weight: 300">I help companies research their ideas, design great products, and create successful businesses.</span></h1>
+<br/>
 #### Currently
 I’m helping <a href="https://www.red-gate.com/" target="_blank">@redgate</a> evolve its product portfolio, working on new product development and its acquisition of [Flyway](https://flywaydb.org/). 
 
