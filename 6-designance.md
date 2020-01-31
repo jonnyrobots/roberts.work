@@ -2,10 +2,32 @@
 layout: page
 title: Designance
 permalink: /designance/
-
 ---
 
-<h1>Designance</h1>
-<br/>
+# Designance
+
 <iframe height="320" src="https://designance.substack.com/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<p>Am I better at designing products, or investing in software companies? I'm writing Designance as I find out the hard way.</p>
+
+<p>Subscribe to get the latest installment delivered straight to your inbox, or read the archive below. And if you like what you're reading, consider forwarding it to a friend.</p>
+
+### Archive
+
+<ul class="newsletter">
+{% for post in site.categories.designance %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title }}">
+            <span>
+                {{ post.image }}
+                <p class="datestamp">{{ post.date | date_to_long_string }}</p>
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.subtitle }}</p>
+            </span>
+        </a>
+    </li>
+{% endfor %}
+</ul>
+
+
 

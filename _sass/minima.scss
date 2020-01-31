@@ -180,4 +180,27 @@ thead {text-align: left;}
     width:100%;
 }
 
-    
+ul.newsletter {
+  margin: 0; padding: 0;
+}
+ul.newsletter li {
+  list-style: none; 
+  margin: 0 0 1em;
+}
+
+ul.newsletter li span {
+  display: block; 
+  padding: 1em; 
+  border: 1px solid #f5e5e1;
+  list-style: none; 
+  border-radius: 5px; 
+  box-shadow: 0em 0.1em 0.3em 0 #f5e5e1
+}
+
+ul.newsletter li span p.datestamp {
+  color: #bbb
+}
+
+ul.newsletter h3 {
+  color: #fc3437;
+}
