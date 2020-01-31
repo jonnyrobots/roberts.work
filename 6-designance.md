@@ -5,12 +5,11 @@ permalink: /designance/
 ---
 
 # Designance
-
 <iframe height="320" src="https://designance.substack.com/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <p>Am I better at designing products, or investing in software companies? I'm writing Designance as I find out the hard way.</p>
 
-<p>Subscribe to get the latest installment delivered straight to your inbox, or read the archive below. And if you like what you're reading, consider forwarding it to a friend.</p>
+<p>Subscribe to get the latest instalment delivered straight to your inbox, or read the archive below. And if you like what you're reading, consider forwarding it to a friend.</p>
 
 ### Archive
 
