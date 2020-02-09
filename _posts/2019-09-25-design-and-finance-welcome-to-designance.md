@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design and Finance?"
+title:  "Design and finance?"
 subtitle: "No.001 Welcome to Designance"
 date:   2019-09-25 21:45:59 +0000
 categories: designance
