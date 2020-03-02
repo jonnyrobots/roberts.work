@@ -29,7 +29,7 @@ The most productive engineering teams I’ve worked with developed and tested th
 
 The principles you form following this process helps you achieve autonomy; the ability to make good decisions with good reason in good time. 
 
-### Thesis development takes time and requires experimentation
+### Theses need time and experimentation
 
 When I first discovered how to buy shares I faced a simple problem: who should I invest in? 
 
