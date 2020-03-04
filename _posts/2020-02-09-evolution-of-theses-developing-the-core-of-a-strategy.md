@@ -4,14 +4,17 @@ title:  "The evolution of theses"
 subtitle: "No.002 Developing the core of a strategy"
 date:   2020-02-09 20:45:59 +0000
 categories: designance
+image: <img src="/images/thesis.png"/> 
 ---
+
+![Developing a thesis]({{ site.baseurl }}/images/thesis.png)
 
 # The evolution of theses
 ### No.002 Developing the core of a strategy
 
 For this project to stand a chance of succeeding it ought to have a strategy. A good strategy requires a proven **thesis**, strong **principles** and according to [Rumelt](http://goodbadstrategy.com/about-the-book/), **coherent action**.  
 
-My favourite strategy comes from one of the few firms to profit from the 2008 financial crisis. Their story is told by Michael Lewis in The Big Short [1]: 
+My favourite thesis story comes from one of the few firms to profit from the 2008 financial crisis, as told by Michael Lewis in The Big Short [1]: 
 
 > Their strategy was simple and brilliant... "People hate to think about bad things happening so they underestimate their likelihood."... 
 
@@ -21,13 +24,11 @@ It is simple, concise and easy to convey. I think it’s an excellent thesis. It
 
 Cornwall Capital’s thesis, combined with this insight, formed the principles that enabled them act against conventional wisdom, and win:
 
-> When they were wrong, they were wrong small. But when they were right, they were right big. Within a a few years they had turned their 110 grand into 30 million.
+> When they were wrong, they were wrong small. But when they were right, they were right big. Within a few years they had turned their 110 grand into 30 million.
 
-The importance of proven theses and strong principles hold true in software development. 
+The importance of proven theses and strong principles hold true in software development. The most productive engineering teams I’ve worked with developed and tested their theses before writing a single line of code. 
 
-The most productive engineering teams I’ve worked with developed and tested their theses before writing a sinlge line of code. 
-
-The principles you form following this process helps you achieve autonomy; the ability to make good decisions with good reason in good time. 
+The principles formed as a result of being disciplined about developing a thesis first, pays you back in the future as an ability to make good decisions with good reason in good time. In software development this state is known referred to as autonomy. 
 
 ### Theses need time and experimentation
 
@@ -76,13 +77,13 @@ With Azure (and later its [$7.5 billion purchase of GitHub](https://techcrunch.c
 
 ### Designing good software is getting harder
 
-The Cloud, with its serious computing power and endless data storage provides easy access to automation. Combined with a lower barrier of entry to machine learning and artificial intelligence capabilities, the systems being built today are complex, difficult to comprehend and unsurprisingly, diffificult to design for.
+The Cloud, with its serious computing power and endless data storage provides easy access to automation. Combined with a lower barrier of entry to machine learning and artificial intelligence capabilities, the systems being built today are complex, difficult to comprehend and unsurprisingly, difficult to design for.
 
-The GUI - with its paradigms like buttons, check boxes and drop-downs - helped ordinary users develop a mental model for using a computer. They went on to help user experience designers contribute to the creation of valuable, intuitive software. 
+The GUI - with its paradigms like buttons, checkboxes and drop-downs - helped ordinary users develop a mental model for using a computer. They went on to help user experience designers contribute to the creation of valuable, intuitive software. 
 
 Microsoft released its database engine nearly a decade after Oracle, but caught up quickly by providing a GUI on top. Now companies and their armies of software engineers seek automation, and guess what? The GUI doesn’t automate. 
 
-In London, Facebook has a designer-to-developer ratio of 1:50 (5). While designers were distracted by creating the easy-to-open packaging, developers got on with designing the product; algorithms designed to hold your engagemtns, but that ended up delivering anxiety-inducing content that makes you angry and compelled to take another drag. It is digital cancer.
+In London, Facebook has a designer-to-developer ratio of 1:50 (5). While designers were distracted by creating the easy-to-open packaging, developers got on with designing the product; algorithms designed to hold your engagements, but that ended up delivering anxiety-inducing content that makes you angry and compelled to take another drag. It is digital cancer.
 
 You can’t blame the designers for being stuck at the GUI level when it’s significantly easier to design an intuitive iPhone app than an algorithm that can’t be weaponized. For the moment.
 
