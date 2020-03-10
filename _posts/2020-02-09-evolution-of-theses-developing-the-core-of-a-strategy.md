@@ -12,9 +12,11 @@ image: <img src="/images/thesis.png"/>
 # The evolution of theses
 ### No.002 Developing the core of a strategy
 
-For this project to stand a chance of succeeding it ought to have a strategy. A good strategy requires a proven **thesis**, strong **principles** and according to [Rumelt](http://goodbadstrategy.com/about-the-book/), **coherent action**.  
+In 2008 a handful of investors made money while most lost money as default rates on subprime mortgages caused the stock market to crash. How could a stock market crash be an opportunity to _make_ money? 
 
-My favourite thesis story comes from one of the few firms to profit from the 2008 financial crisis, as told by Michael Lewis in The Big Short [1]: 
+I found the answer in a book by Michael Lewis. The key it seemed, wasn't predicting the collapse (though some did), it was having a thesis-backed strategy ready for when the opportunity presented itself. 
+
+From "The Big Short" <sup><a href="#footnotes">[1]</a></sup>:
 
 > Their strategy was simple and brilliant... "People hate to think about bad things happening so they underestimate their likelihood."... 
 
@@ -26,9 +28,13 @@ Cornwall Capital’s thesis, combined with this insight, formed the principles t
 
 > When they were wrong, they were wrong small. But when they were right, they were right big. Within a few years they had turned their 110 grand into 30 million.
 
-The importance of proven theses and strong principles hold true in software development. The most productive engineering teams I’ve worked with developed and tested their theses before writing a single line of code. 
+The importance of a proven thesis also holds true in software development. The most productive engineering teams I’ve worked with developed and tested their theses before writing a single line of code. 
 
-The principles formed as a result of being disciplined about developing a thesis first, pays you back in the future as an ability to make good decisions with good reason in good time. In software development this state is known referred to as autonomy. 
+The discipline of developing the thesis before the product itself pays you back with principles. Strong principles enable you to make tough decisions with good reason in short time. In software development this state is called "autonomy". 
+
+So, for this project to stand a chance of succeeding then, it too ought to have a strategy. A good strategy requires a proven **thesis**, strong **principles** and according to [Rumelt](http://goodbadstrategy.com/about-the-book/), **coherent action**.  
+
+Let's start with the thesis.
 
 ### Theses need time and experimentation
 
@@ -36,7 +42,7 @@ When I first discovered how to buy shares I faced a simple problem: who should I
 
 I discovered that fees for buying shares were around £11.95 per deal, putting a £100 investment 12% down the second it was purchased. 
 
-Managed funds however, cost nothing to invest in and each fund listed its top ten investments anyway. I realised I could read this list and invest in the fund with the names of the companies I'd heard of and would have invested in anyway, for free [2]! 
+Managed funds however, cost nothing to invest in and each fund listed its top ten investments anyway. I realised I could read this list and invest in the fund with the names of the companies I'd heard of and would have invested in anyway, for free <sup><a href="#footnotes">[2]</a></sup>! 
 
 `v0.1 - buy funds with the tech companies you know`
 
@@ -48,7 +54,7 @@ This was a terrible investment thesis, but while it under performed it did retur
 
 Companies hire intelligent people to make decisions about how to achieve company objectives. The objectives, which invariably revolve around the making of more money, often rest on software investments.
 
-I believed that I was well positioned to decide which software company shares to buy, since I could see the difference each piece of software made to the success of the businesses I worked in [3], and simply copy those investments. Bringing me to my first thesis evolution: 
+I believed that I was well positioned to decide which software company shares to buy, since I could see the difference each piece of software made to the success of the businesses I worked in <sup><a href="#footnotes">[3]</a></sup>, and simply copy those investments. Bringing me to my first thesis evolution: 
 
 `v0.2 - buy shares in what the company invests in`
 
@@ -65,15 +71,17 @@ The second group, Type B, are my most profitable and the insight I have here get
 
 Microsoft and Salesforce didn't just represent companies whose products we paid to use, but companies whose ecosystems we also invested engineering effort into. 
 
-We worked closely with them, understood where their ecosystems fell short and wrote code that we turned into products to sell to our own customers.
+We worked closely with them, understood where their ecosystems fell short and wrote code that we turned into products to sell to our own customers. 
 
 Engineering teams are not cheap. The biggest I've been privileged enough to lead cost around $1m/yr. At the time it was focused on developing software for Microsoft's cloud platform, Azure. 
 
-Developing for Azure gave us insight into Microsoft's strategy in the post-Balmer era; all in on Cloud. 
+Working closely with Microsoft while developing for Azure gave us insight into Microsoft's strategy in the post-Balmer era; all in on Cloud. 
 
-Microsoft saw that developers were choosing their (often open source) database technology according to a specific need – like CockroachDB for global scale-ability, Timescale for time-series data in IOT, Salesforce for customer relationship management [4] – and Cloud infrastructure for convenience. 
+Microsoft saw that developers were choosing their (often open source) database technology according to a specific need – like CockroachDB for global scale-ability, Timescale for time-series data in IOT, Salesforce for customer relationship management <sup><a href="#footnotes">[4]</a></sup> – and Cloud infrastructure for convenience. 
 
-With Azure (and later its [$7.5 billion purchase of GitHub](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/)), Microsoft has pitched itself squarely at developers. It no longer cares if you're using their proprietary technology, just that you’re building your application in Azure’s ecosystem.  
+With Azure (and later its [$7.5 billion purchase of GitHub](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/)), Microsoft has pitched itself squarely at developers. It no longer cares if you're using their proprietary technology, just that you’re building your application in Azure’s ecosystem.
+
+The Salesforce product was so successful it was spun out.
 
 ### Designing good software is getting harder
 
@@ -83,7 +91,7 @@ The GUI - with its paradigms like buttons, checkboxes and drop-downs - helped or
 
 Microsoft released its database engine nearly a decade after Oracle, but caught up quickly by providing a GUI on top. Now companies and their armies of software engineers seek automation, and guess what? The GUI doesn’t automate. 
 
-In London, Facebook has a designer-to-developer ratio of 1:50 (5). While designers were distracted by creating the easy-to-open packaging, developers got on with designing the product; algorithms designed to hold your engagements, but that ended up delivering anxiety-inducing content that makes you angry and compelled to take another drag. It is digital cancer.
+In London, Facebook has a designer-to-developer ratio of 1:50 <sup><a href="#footnotes">[5]</a></sup>. While designers were distracted by creating the easy-to-open packaging, developers got on with designing the product; algorithms designed to hold your engagements, but that ended up delivering anxiety-inducing content that makes you angry and compelled to take another drag. It is digital cancer.
 
 You can’t blame the designers for being stuck at the GUI level when it’s significantly easier to design an intuitive iPhone app than an algorithm that can’t be weaponized. For the moment.
 
@@ -96,7 +104,7 @@ More importantly not a single one has IPO'd, making Adobe the only creator of de
 All I need now is to make some decisions, and for that I'll need some principles.
 
 ![]({{ site.baseurl }}/images/sig.png)
-
+<a name="footnotes"></a>
 <hr/>
 
 **Footnotes**
