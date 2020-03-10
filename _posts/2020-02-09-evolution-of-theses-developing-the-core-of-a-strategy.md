@@ -81,19 +81,21 @@ Microsoft saw that developers were choosing their (often open source) database t
 
 With Azure (and later its [$7.5 billion purchase of GitHub](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/)), Microsoft has pitched itself squarely at developers. It no longer cares if you're using their proprietary technology, just that you’re building your application in Azure’s ecosystem.
 
-The Salesforce product was so successful it was spun out.
+The Salesforce product was so successful it was spun out as a new company.
 
 ### Designing good software is getting harder
-
-The Cloud, with its serious computing power and endless data storage provides easy access to automation. Combined with a lower barrier of entry to machine learning and artificial intelligence capabilities, the systems being built today are complex, difficult to comprehend and unsurprisingly, difficult to design for.
 
 The GUI - with its paradigms like buttons, checkboxes and drop-downs - helped ordinary users develop a mental model for using a computer. They went on to help user experience designers contribute to the creation of valuable, intuitive software. 
 
 Microsoft released its database engine nearly a decade after Oracle, but caught up quickly by providing a GUI on top. Now companies and their armies of software engineers seek automation, and guess what? The GUI doesn’t automate. 
 
-In London, Facebook has a designer-to-developer ratio of 1:50 <sup><a href="#footnotes">[5]</a></sup>. While designers were distracted by creating the easy-to-open packaging, developers got on with designing the product; algorithms designed to hold your engagements, but that ended up delivering anxiety-inducing content that makes you angry and compelled to take another drag. It is digital cancer.
+The Cloud, with its serious computing power and endless data storage provides easy access to automation. Combined with a lower barrier of entry to machine learning and artificial intelligence capabilities, the systems being built today are complex, difficult to comprehend and unsurprisingly, difficult to design for.
 
-You can’t blame the designers for being stuck at the GUI level when it’s significantly easier to design an intuitive iPhone app than an algorithm that can’t be weaponized. For the moment.
+In London, Facebook has a designer-to-developer ratio of 1:50 <sup><a href="#footnotes">[5]</a></sup>. While designers are distracted working on the interface, developers get on with designing the real product; algorithms designed to hold your engagement, whatever the cost to your mental health.
+
+At Google, 300<sup><a href="#footnotes">[6]</a></sup> people work on Material. That's the equivalent of a regular company working on design tools. Yet when it comes to providing guidance on the design of AI and ML systems, Material is [stuck at guidance for the interface layer](https://material.io/collections/machine-learning/object-detection-live-camera.html#usage). 
+
+Closer to home, I product manage [Flyway](https://flywaydb.org/) and led the R&D team that created [Spawn](https://spawn.cc/) before that. These are applications whose constituent parts – APIs and config files – are created for the sole purpose of automating humans out of a process. As a former UX designer, these products are difficult to design for in anything but the abstract. 
 
 `v0.3 - complex systems need specialist design tools`
 
@@ -114,3 +116,4 @@ All I need now is to make some decisions, and for that I'll need some principles
 + [3] This is what a stock picker in an active fund is paid to do; analyse and pick companies to invest in. This is in contrast to a passive fund, which invests in everything in a given sector. The difference is interesting at the moment since genius investors picking stocks for active funds are struggling to justify their existence by out-performing (cheaper) passive funds. 
 + [4] Salesforce is in essence just another database - albeit not one available on any Cloud platform other than Salesforce itself. Although I wasn’t involved with this project, developing software for the Salesforce ecosystem provided fantastic ROI, creating not just a new product,  but an entirely new company.
 + [5] In 2016 I went with a few of our design team to meet some of the designers at Facebook in London. I was given this ratio by a designer based on the teams they knew about, so this figure is anecdotal and probably out-of-date.
++ [6] Figure taken from the Q&A following this talk given by Google's Director or UX, Elizabeth Churchill - [Scaling User Experience](https://www.youtube.com/watch?v=8Q616WcyTjU).   
