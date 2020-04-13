@@ -130,5 +130,5 @@ All I need now is to make some decisions, and for that I’ll need some principl
 + [4] Salesforce is in essence just another database - albeit not one available on any Cloud platform other than Salesforce itself. Although I wasn’t involved with this project, developing software for the Salesforce ecosystem provided fantastic ROI, creating not just a new product, but an entirely new company.
 + [5] Stats taken from the Q&A section of a talk given by Elizabeth Churchill, Director of UX, Google Material Design in May 2019.
 + [6] I was given this ratio by a Facebook designer in 2016. It was based on the teams they knew about, so this figure is anecdotal and likely out-of-date.
-+ [7] I say “few” because Roam - a “note-taking tool for networked thought” might, but it doesn’t appear to pitch itself at designers of software products and it is a steep learning curve to mastering it.
++ [7] I say “few” because [Roam](https://roamresearch.com/) - a “note-taking tool for networked thought” might, but it doesn’t appear to pitch itself at designers of software products and it is a steep learning curve to mastering it.
 
