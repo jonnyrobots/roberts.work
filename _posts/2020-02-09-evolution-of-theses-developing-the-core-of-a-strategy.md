@@ -47,7 +47,7 @@ When I first discovered how to buy shares I faced a simple problem: who should I
 
 I discovered that fees for buying shares were around £11.95 per deal, putting a £100 investment 12% down the second it was purchased.
 
-Managed funds however, cost nothing to invest in and each fund listed its top ten investments anyway. I realised I could read this list and invest in the fund with the names of the companies I’d heard of and would have invested in anyway, for free <sup><a href="#footnotes">[2]</a><sup>!
+Managed funds however, cost nothing to invest in and each fund listed its top ten investments anyway. I realised I could read this list and invest in the fund with the names of the companies I’d heard of and would have invested in anyway, for free <sup><a href="#footnotes">[2]</a></sup>!
 
 `Thesis v0.1 - buy funds with the tech companies you know`
 
@@ -59,7 +59,7 @@ Despite being a (relatively) terrible investment thesis, under performing as it 
 
 Companies hire intelligent people to make decisions about how to achieve company objectives. The objectives, which invariably revolve around the making of more money, often rest on software investments.
 
-I believed that I was well positioned to decide which software company shares to buy, since I could see the difference each piece of software made to the success of the businesses I worked in <sup><a href="#footnotes">[3]</a><sup>. This thesis was simple; copy these investments. Bringing me to my first thesis evolution:
+I believed that I was well positioned to decide which software company shares to buy, since I could see the difference each piece of software made to the success of the businesses I worked in <sup><a href="#footnotes">[3]</a></sup>. This thesis was simple; copy these investments. Bringing me to my first thesis evolution:
 
 `Thesis v0.2 - buy shares in whatever my employer invests in`
 
@@ -83,7 +83,7 @@ We worked closely with them, understood where their ecosystems fell short and wr
 
 Developing for Azure gave us insight into Microsoft’s strategy in the post-Balmer era; embrace open-source, add [support for Linux](https://www.wired.com/2016/06/microsofts-open-source-love-affair-reaches-new-heights/) and relax focus on proprietary software.
 
-Microsoft saw that developers were choosing their (often open source) database technology according to a specific need – like CockroachDB for global scale-ability, Timescale for time-series data in IOT, Salesforce for customer relationship management <sup><a href="#footnotes">[4]</a><sup> – and Cloud infrastructure for convenience.
+Microsoft saw that developers were choosing their (often open source) database technology according to a specific need – like CockroachDB for global scale-ability, Timescale for time-series data in IOT, Salesforce for customer relationship management <sup><a href="#footnotes">[4]</a></sup> – and Cloud infrastructure for convenience.
 
 With Azure (and later its [$7.5 billion purchase of GitHub](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/)), Microsoft has pitched itself squarely at developers. It no longer cared if you’re using their proprietary technology, just that you’re building your application in Azure’s ecosystem.
 
@@ -101,7 +101,7 @@ Right now I’m working on a product designed for automation. Its human interfac
 
 Learning to design this kind of product has been a challenge in which none of the design software I’ve used previously has been of any help.
 
-Google – perhaps the most well-known provider of AI and ML-driven experiences – has 300 <sup><a href="#footnotes">[5]</a><sup> people working on its Design System, [Material](https://material.io/design/). That's the equivalent of a small-to-medium enterprise dedicated to helping humans interact with computers. Even so, when it comes to providing guidance on the design of AI and ML systems themselves, Material is still stuck [describing the superficial](https://material.io/collections/machine-learning/object-detection-live-camera.html#usage) layers of visual and interaction design.
+Google – perhaps the most well-known provider of AI and ML-driven experiences – has 300 <sup><a href="#footnotes">[5]</a></sup> people working on its Design System, [Material](https://material.io/design/). That's the equivalent of a small-to-medium enterprise dedicated to helping humans interact with computers. Even so, when it comes to providing guidance on the design of AI and ML systems themselves, Material is still stuck [describing the superficial](https://material.io/collections/machine-learning/object-detection-live-camera.html#usage) layers of visual and interaction design.
 
 In London, Facebook has a designer-to-developer ratio of 1:50 <sup><a href="#footnotes">[6]</a></sup>. Staff there still put out frequent Medium articles laying claim to their powers of visual design. Most of these posts come from “self-taught” Product Designers incapable of addressing the irony that the real product design is being carried out by the data “scientists” (furiously mining data) and software engineers (blindly writing algorithms that negatively impact the lives of their users).
 
