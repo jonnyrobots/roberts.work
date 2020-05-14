@@ -6,8 +6,7 @@ permalink: /articles/
 
 <h2>Articles</h2>
 
-### Calls, code and comms.
-<p>A series of posts about what makes research, design and development teams successful at creating new products.</p>
+### Regarding research, design & development
 
 <ul>
 {% for post in site.categories.article %}
@@ -19,7 +18,7 @@ permalink: /articles/
 </ul>
 
 <h2>Talks</h2>
-### Recordings and slides 
+### Recordings and slides of talks given
 <ul>
     <li>
         <p><a href="https://speakerdeck.com/jonny_robots/introduction-to-the-design-studio-methodology" target="_blank">Introduction to Design Studio <i class="fas fa-external-link-alt icon"></i></a> (2016) </p>
