@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Design software for software design"
+title:  "Design software for software design" 
+abstract: What would design sofware look like if you started from scratch?
 date:   2019-08-07 21:45:59 +0000
-categories: sabbatical
+readtime: 1 minute
+categories: sabbatical article
 ---
 
-What would design sofware look like if you started from scratch? 
 
 # Design software for software design
 ### Designing for complex, non-GUI systems 

@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Research with real-time synthesis"
+abstract: A method for remote research
 date:   2020-05-01 10:31:12 +0000
+readtime: 6 minutes
 categories: article
 ---
-A method for remote research - ⏰ _6 minutes_.
 
 # Research with real-time synthesis
 ###  A method for collaborative remote research

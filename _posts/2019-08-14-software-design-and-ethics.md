@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Design ethics and software design"
+abstract: Ethically weak software is the outcome of the poor application of design.
 date:   2019-08-14 13:45:59 +0000
-categories: sabbatical
----
-
-Ethically weak software is the outcome of the poor application of design. 
+readtime: 1 minute
+categories: sabbatical article
+--- 
 
 # Design ethics and software design
 ### Where bad products come from 
