@@ -6,16 +6,18 @@ permalink: /articles/
 
 <h2>Articles</h2>
 
-### Regarding research, design & development
+### On research, design & development
 
-<ul>
+<ul class="article-list">
 {% for post in site.categories.article %}
-    <li>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})</p>
-        <p>{{ post.excerpt }}</p>
-    </li>
+<li>
+<h4><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></h4>
+<p><strong>{{ post.date | date_to_long_string }}</strong> – ⏱ {{ post.readtime }}</p>
+<p>{{ post.abstract }}<a href="{{ site.baseurl }}{{ post.url }}" title="Continue reading"> ...read → </a></p>
+</li>
 {% endfor %}
 </ul>
+
 
 <h2>Talks</h2>
 ### Recordings and slides of talks given
@@ -33,19 +35,3 @@ permalink: /articles/
         <p>A talk given to an audience of UX professionals about the experience of teaching non-UX professionals to develop UX skills</p>
     </li>
 </ul>
-
-<h2>Sabbatical</h2>
-### 2019  
-<p>I took a sabbatical to work on a research project exploring design software for complex, GUI-agnostic systems.</p>
-
-<ul>
-
-{% for post in site.categories.sabbatical reversed  %}
-    <li>
-        <p><span class="pdate"></span></p>
-        <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a> ({{ post.date | date_to_long_string }})</p>
-        <p>{{ post.excerpt }}</p>
-    </li>
-{% endfor %}
-</ul>
-<br/>

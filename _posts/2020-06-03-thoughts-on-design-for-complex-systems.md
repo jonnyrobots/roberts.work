@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Design for complex systems"
+abstract: A make or break moment for UX 
 date:   2020-06-02 22:00:00 +0000
 categories: article
+readtime: 4 minutes
 ---
-
-A make or break challenge for UX - ⏰ **4 min**.
 
 # Design for complex systems
 ###  Imagining a new kind of design software

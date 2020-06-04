@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Making calls: design for new product development"
+abstract: The role and mindset of a designer working in new product development 
 date:   2018-06-30 19:31:12 +0000
+readtime: 7 minutes
 categories: article
 ---
-
-The role and mindset of a designer working in new product development
 
 ## Making calls
 ### Design for new product development 

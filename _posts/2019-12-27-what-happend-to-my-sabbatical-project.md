@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "What happened to my sabbatical project"
+abstract: The reason my project ground to a halt
 date:   2019-12-27 21:45:59 +0000
-categories: sabbatical
+readtime: 2 minutes
+categories: sabbatical article
 ---
-
-The reason my project ground to a halt. **⏰ 2 min read**.
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Just sitting here contemplating the reason my sabbatical project appears – outwardly, at least – to have ground to a halt...</p>&mdash; Jonathan Roberts (@jonny_robots) <a href="https://twitter.com/jonny_robots/status/1210729659463135242?ref_src=twsrc%5Etfw">28 December 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
