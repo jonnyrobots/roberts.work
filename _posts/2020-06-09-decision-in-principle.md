@@ -2,7 +2,7 @@
 layout: post
 title:  "A decision in principle"
 subtitle: "No.003 - Making difficult choices easy"
-date:   2020-05-09 20:45:59 +0000
+date:   2020-06-09 20:45:59 +0000
 categories: designance
 image: <img src="/images/principles.png"/> 
 readtime: 12 minutes
@@ -92,7 +92,7 @@ Being a good, carefully designed product for a specific individual – like “A
 
 The most successful products I've seen care as much about being critical to a *process* or system as they do about being tailored to the needs of the individual. 
 
-### 4. It is worth charging for
+### 4. Worth charging for
 
 The companies whose shares you can buy (usually) have this worked out in advance of going public, so this principle might seem obvious and therefore extraneous. 
 
@@ -107,14 +107,14 @@ Given the other principles, I wonder all this is to say that were I to create a 
 
 ### 5. Make it myself
 
-I think my last principle (for now) is likely to be my most controversial. Should I begin to create a product, it should be something I can build and own myself as a solo-founder.
+I think my last principle (for now) is likely to be my most controversial. Should I create a product, it should be something I can build and own myself as a solo-founder – at least until I can no longer grow it to whatever it needs to be.
 
 This is in part because most of the successful[^5] start-ups I’ve met have been run by solo-founders. It’s also because I get enough collaboration and influence practice in my day job. 
 
 I have two contrasting views on this already, and I expect this principle to be the one that gets tested the most because: 
 
 1. The people who advocate most strongly for co-founders are Venture Capitalists. Of the ones I’ve met, none would entertain the idea of investing in a solo-founder. My assumption for that preference is that co-founders somehow half the risk of an already risky investment[^6].
-2. The people who have started companies as co- or multi-founders have repeatedly told me that it’s nice to be able to experience the ride together; support through the lows, shared celebration for the highs. 
+2. The people who have started companies as co- or multi-founders have repeatedly told me that it’s nice to be able to experience the ride together; support through the lows and shared celebration of the highs. 
 
 So, to recap:
 
@@ -129,9 +129,37 @@ Principles for investing
 
 ```
 
-+++
+<hr/>
+<br/>
+## Modern product design is MIA
+<br/>
+A few weeks ago a designer friend of mine and I were catching up. I was looking for help with a design problem I faced – or more specifically, a design problem that I was unable to face.
 
-+++
+For the past three years I’ve been working on products for software developers. Not once in that time has a designer shown (to me at least) any interest in designing for these products.
+
+These products are typically driven by a Command Line Interface (CLI). If you grew up in the early nineties you might recognise them from having had to type “win” in MS-DOS to launch Microsoft Windows 3.1.
+
+So what makes these hard to design for? 
+
+A Graphical User Interface (GUI) makes a computer comprehensible by allowing you to build a conceptual model of how the thing works (buttons, folders etc). What the GUI _actually_ does is to create an abstraction from how the thing actually works. You can test this with this assertion: just because you can user a computer, it doesn’t mean you can program one.
+
+Since a CLI provides very few (obvious) cues as to how the system works, my assumption was that CLIs are interpreted as being complex. 
+
+What I was looking for from my friend was a recommendation for a tool, or a process that would help a user experience designer develop their comprehension of a CLI; or any complex product. 
+
+We talked it over, and I even went so far as to try to [describe the problem as I saw it, in much more detail](https://roberts.work/article/2020/06/02/thoughts-on-design-for-complex-systems.html). I did this partly to help my thinking, but mainly because I remembered that in marketing, the problem is more interesting than the product. 
+
+Having thought about it more, I don’t believe CLI products are that complex to design for. At least not once you understand the near-universal patterns and paradigms they employ. I think what is complex about them is the systems in which they tend to function. 
+
+Command-driven products can be incredibly flexible. Instead of one GUI being jabbed at by a user with monitor and a mouse, these products can be controlled by humans, or other software, or even through as a response to data.
+
+With this framing I can see other products fall into the same category – protein analysis machines, social media platform algorithms – and I realise now what’s needed is a tool, or a process that would help a user experience designer develop their comprehension of a complex **system**.
+
+Now we’re getting somewhere. Systems theory is its own field of study. Perhaps the answer to the to this missing design software can be found there, but it’s going to take some research.
+
+That’s going to require persistence and habit forming. 
+
+![]({{ site.baseurl }}/images/sig.png)
 
 ## Reading list
 
@@ -143,6 +171,8 @@ Some of the artilces that have caught and consumed my attention over the past mo
 - 📚 [Superforecasting: The Art and Science of Prediction](https://www.goodreads.com/book/show/23995360-superforecasting) by Philip E. Tetlock, Dan Gardner
 - 🎧 Philip E. Tetlock on Forecasting and Foraging as a Fox ([YouTube](https://www.youtube.com/watch?v=nJoImhNTvA8&feature=youtu.be) / [Podcast](https://conversationswithtyler.com/episodes/philip-e-tetlock/))  
 - 💼 [Two hundred and fifty things an architect should know](https://www.readingdesign.org/250-things) 
+
+<iframe src="https://designance.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## Footnotes
 
