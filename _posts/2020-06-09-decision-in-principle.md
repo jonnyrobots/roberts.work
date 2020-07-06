@@ -137,19 +137,19 @@ A few weeks ago a designer friend of mine and I were catching up. I was looking 
 
 For the past three years I’ve been working on products for software developers. Not once in that time has a designer shown (to me at least) any interest in designing for these products.
 
-These products are typically driven by a Command Line Interface (CLI). If you grew up in the early nineties you might recognise them from having had to type “win” in MS-DOS to launch Microsoft Windows 3.1.
+Developer tools are typically driven by a Command Line Interface (CLI). If you grew up in the early nineties you might recognise them from having had to type “win” in MS-DOS to launch Microsoft Windows 3.1.
 
 So what makes these hard to design for? 
 
-A Graphical User Interface (GUI) makes a computer comprehensible by allowing you to build a conceptual model of how the thing works (buttons, folders etc). What the GUI _actually_ does is to create an abstraction from how the thing actually works. You can test this with this assertion: just because you can user a computer, it doesn’t mean you can program one.
+A Graphical User Interface (GUI) makes a computer comprehensible by enabling you to build a conceptual model of how it works (buttons, folders etc). Except what the GUI _actually_ does is to create an abstraction from how the thing actually works. You can test this with this assertion: just because you can user a computer, it doesn’t mean you can program one.
 
 Since a CLI provides very few (obvious) cues as to how the system works, my assumption was that CLIs are interpreted as being complex. 
 
 What I was looking for from my friend was a recommendation for a tool, or a process that would help a user experience designer develop their comprehension of a CLI; or any complex product. 
 
-We talked it over, and I even went so far as to try to [describe the problem as I saw it, in much more detail](https://roberts.work/article/2020/06/02/thoughts-on-design-for-complex-systems.html). I did this partly to help my thinking, but mainly because I remembered that in marketing, the problem is more interesting than the product. 
+We talked it over, and I even went so far as to try to [describe the problem as I saw it, in much more detail](https://roberts.work/article/2020/06/02/thoughts-on-design-for-complex-systems.html). I did this partly to help my thinking, but mainly because I remembered that, in marketing, the problem is more interesting than the product. 
 
-Having thought about it more, I don’t believe CLI products are that complex to design for. At least not once you understand the near-universal patterns and paradigms they employ. I think what is complex about them is the systems in which they tend to function. 
+Having thought about it more since, I don’t believe CLI products are that complex to design for. At least not once you understand the near-universal patterns and paradigms they employ. What is complex about them is the systems in which they tend to function. 
 
 Command-driven products can be incredibly flexible. Instead of one GUI being jabbed at by a user with monitor and a mouse, these products can be controlled by humans, or other software, or even through as a response to data.
 
