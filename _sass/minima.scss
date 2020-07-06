@@ -32,7 +32,7 @@ blockquote {border-left: 2px solid #fc3437; margin: 0; padding: 0 5%; font-style
 table {margin: 0 0 2em; width: 100%;}
 th, td {border-bottom: 1px solid #ccc;}
 thead {text-align: left;}
-code {font-family: 'Courier New', Courier, monospace; font-size: 0.9em; padding: 1em; background: #eee; display: block;}
+code {font-family: 'Courier New', Courier, monospace; font-size: 0.9em; padding: 1em; background: #eee; display: block; white-space : pre-wrap !important;}
 strong {font-weight: 600;}
 sup {line-height: 0;}
 ul {margin: 0 0 2em;}
