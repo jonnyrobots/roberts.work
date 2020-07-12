@@ -100,7 +100,9 @@ I’ve chosen to call it out as a principle in helping my decision making as I c
 
 > **You have to charge $50-$500/mo, and make something of genuine value, [Jason Cohen](https://blog.asmartbear.com/kung-fu.html)**, asmartbear.com
 
-Given the other principles, I wonder all this is to say that were I to create a product, it’d probably be aimed at people in commercial/enterprise settings (see also “Favour process”)
+Were I to create a product based on that advice then, my suspicion is that it’d need to be for people in commercial/enterprise settings. This is in part because of the price point, but also because it fits with the “Favour process” principle above.
+
+Patrick McKenzie’s thoughts appear to back this up:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">$50 is a much better minimum buy-in for most B2B services than $20 is. You&#39;ll make a lot more money, sure, but you&#39;ll enjoy the reduced support headaches and vastly lower churn even more. <a href="https://t.co/XD4Lvek5x8">https://t.co/XD4Lvek5x8</a></p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/1261177745330987008?ref_src=twsrc%5Etfw">May 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -141,7 +143,7 @@ Developer tools are typically driven by a Command Line Interface (CLI). If you g
 
 So what makes these hard to design for? 
 
-A Graphical User Interface (GUI) makes a computer comprehensible by enabling you to build a conceptual model of how it works (buttons, folders etc). Except what the GUI _actually_ does is to create an abstraction from how the thing actually works. You can test this with this assertion: just because you can user a computer, it doesn’t mean you can program one.
+A Graphical User Interface (GUI) makes a computer comprehensible by enabling you to build a conceptual model of how it works (buttons, folders etc). Except what the GUI _actually_ does is to create an abstraction from how the thing actually works. You can test this with this assertion: just because you can use a computer, it doesn’t mean you can program one.
 
 Since a CLI provides very few (obvious) cues as to how the system works, my assumption was that CLIs are interpreted as being complex. 
 
@@ -151,13 +153,13 @@ We talked it over, and I even went so far as to try to [describe the problem as 
 
 Having thought about it more since, I don’t believe CLI products are that complex to design for. At least not once you understand the near-universal patterns and paradigms they employ. What is complex about them is the systems in which they tend to function. 
 
-Command-driven products can be incredibly flexible. Instead of one GUI being jabbed at by a user with monitor and a mouse, these products can be controlled by humans, or other software, or even through as a response to data.
+Command-driven products can be incredibly flexible. Instead of one GUI being jabbed at by a user with a monitor and a mouse, these products can be controlled by humans, or other software, or even via a response to data.
 
 With this framing I can see other products fall into the same category – protein analysis machines, social media platform algorithms – and I realise now what’s needed is a tool, or a process that would help a user experience designer develop their comprehension of a complex **system**.
 
 Now we’re getting somewhere. Systems theory is its own field of study. Perhaps the answer to the to this missing design software can be found there, but it’s going to take some research.
 
-That’s going to require persistence and habit forming. 
+And that’s going to require persistence and habit forming. 
 
 ![]({{ site.baseurl }}/images/sig.png)
 
