@@ -7,7 +7,7 @@ permalink: /designance/
 # Designance
 <iframe height="320" src="https://designance.substack.com/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<p>Am I better at designing products, or investing in software companies? I'm writing Designance as I find out the hard way.</p>
+<p>Designance is a newsletter I write while exploring the principles of design and finance, pitting my investing skills against creating a product of my own.</p>
 
 <p>Subscribe to get the latest instalment delivered straight to your inbox, or read the archive below. And if you like what you're reading, consider forwarding it to a friend.</p>
 
