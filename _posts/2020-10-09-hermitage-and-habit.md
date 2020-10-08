@@ -27,7 +27,7 @@ _Grab a ☕️ – 15 minute read_
 
 ## I. Cowboy investing
 
-About a year ago I heard a first-hand account of a product made by a Belgian e-bike startup. My friend – a keen cyclist – explained how this product had solved one of the major problems e-bikes suffer from; lack of smooth power delivery[^1]. I’d not seen or tried their product, but when I saw they were raising on Crowdcube last year, I made an investment.
+About a year ago I heard a first-hand account of a product made by a Belgian e-bike startup. My friend, a [keen cyclist](https://rakissimo.com/), explained how this product had solved one of the major problems e-bikes suffer from; lack of smooth power delivery[^1]. I’d not seen or tried their product, but when I saw they were raising on Crowdcube last year, I made an investment.
 
 Making an investment armed with only a slither of ‘good authority’ and the investment thesis ‘never bet against a good product’, placed it firmly on the scale of risk somewhere between pretty speculative and plain daft:
 
@@ -49,7 +49,7 @@ However:
 
 This is my first issue with crowdfunding and brings me back to the point of this story.
 
-I completed a (small) investment in Cowboy’s “Series A” in January 2020. Less than 6 months later I – along with several thousand others – discovered that unbeknown to us, Cowboy had wrapped a Series B “down round”.
+I completed a (small) investment in Cowboy’s “Series A” in January 2020. Less than 6 months later several thousand others and I discovered that unbeknown to us, Cowboy had wrapped up a Series B “down round”.
 
 In essence, Cowboy took (significantly) more investment at a surprisingly lower valuation[^4], and having the effect of reducing the value of my shares by some 34%[^5]. 
 
@@ -67,7 +67,7 @@ If few options exist to easily invest in private companies in early anticipation
 
 In 2008 I was living in a shared house with three friends. You’ll remember 2008 as the year that the sub prime mortgage crisis brought the financial system to its knees. We experienced a similar problem on a smaller scale; a rent crisis caused by one friend quitting their job on principle. 
 
-I say “on principle”. Eventually it transpired that he’d booked a haircut one afternoon in anticipation of the time off work being approved. His boss, apparently “high on power”, refused to approve it. Rather than change their plans, my friend – and regular rent contributor – quit. 
+I say “on principle”. Eventually it transpired that he’d booked a haircut one afternoon in anticipation of the time off work being approved. His boss, apparently “high on power”, refused to approve it. Rather than change their plans, my friend and regular rent contributor quit. 
 
 Once we’d worked out how to pay the rent it was hard not to be quietly impressed. Values aren’t worth anything until they’re costing you money, and it was costing him more than us.
 
@@ -75,7 +75,7 @@ It wasn’t a great year to be looking for employment, and 2008 seemed like an e
 
 ![Persistence]({{ site.baseurl }}/images/festivals.png)
 
-Over the last 12 years I’ve listened to countless bold and incredulous plans – even participating in a few – but always suspicious that the festival would work:
+Over the last 12 years I’ve listened to countless bold and incredulous plans – even participating in a few while always suspicious that the festival would work:
 
 **“You can’t just use the name of a city without permission! Can you?”**
 Yes; turns out that’s fine - it’s good promotion for the City
@@ -100,7 +100,7 @@ These graphical user interfaces (GUIs) are created by people who think about sev
 
 Products made for software developers – imaginatively called “Developer tools” – are different. Their user interfaces are generally text-based, and use interaction concepts that are abstract from the real-world. 
 
-Developers interact with these products through things like *configuration files* where your desired settings are defined, or *command-line interfaces* – “CLIs” – where you instruct the product to do its thing, right through to *application protocol interfaces* – “APIs” – which allow you to write software to tell the product what to do.
+Developers interact with these products through things like **configuration files** where your desired settings are defined, or **command-line interfaces** (“CLIs”) where you instruct the product to do its thing, right through to **application protocol interfaces** (“APIs”) which allow you to write *software* to tell the product what to do.
 
 Because these interaction mechanisms are abstract, designing developer tools is a hard job usually left to software developers. If there’s one Tweet that sums up the state of design for developer tools, it’s this one:
 
@@ -118,7 +118,7 @@ Since this product is aimed at helping software developers develop developer too
 
 I don’t think I need to.
 
-Getting meta for a moment (yes, more meta than ‘helping developers develop developer tools’), you can think of software simply as a mechanism to capture human knowledge. Anyone who can get hold of that software is now in possession of that knowledge. For example, you know how to send email because you have a Gmail account – you hold the knowledge of how MX records and servers work – you just didn’t know it (or likely care). 
+Getting meta for a moment (yes, more meta than ‘helping developers develop developer tools’), you can think of software simply as a mechanism to capture human knowledge. Anyone who can get hold of that software is now in possession of that knowledge. For example, you know how to send email because you have a Gmail account. Implicitly you hold the knowledge of how MX records and servers work, you just didn’t know it (or likely care!).
 
 In my case I understand the principles of product design, and I understand the technical makeup of developer tools. All I need to do is capture that knowledge – without codifying it in software. 
 
