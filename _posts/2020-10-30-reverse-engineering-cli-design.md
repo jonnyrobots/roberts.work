@@ -34,7 +34,7 @@ Reverse engineering a good design doesn’t just identify what’s good, but sho
 ### A reverse engineered guide to CLI design
 #### How to use this guide
 
-I’m going to structure this ‘reverse engineering of design’ by **user need**, phrased as a question the user might be asking themselves, followed by an **illustration**, using an example from the Ignite CLI. 
+I’m going to structure this ‘reverse engineering of design’ by **user need**, phrased as a question a user would ask themselves, followed by an **illustration**, describing an example from the Ignite CLI.
 
 When you’re using the guide, practice putting yourself in the shoes of your users and asking the same questions. The right way to answer each for _your product_ might be different.
 
@@ -44,13 +44,34 @@ Let’s go...
 
 ![Ignite CLI]({{ site.baseurl }}/images/ignite-cli.jpeg)
 
-#### A. "Is this thing on?
+#### A. "Is this thing on?"
 
-The entire design we’re looking at is a result of someone running the help command <span>`ignite --h`</span>. Providing the help option is command-line tool design 101, but it serves an interesting use case for a good developer experience (beyond the help itself):
+What we’re looking at in the screenshot above is a result of someone running the help command <span>`ignite --h`</span>. Providing the help option is command-line tool design 101, but it serves an interesting use case for a good developer experience (beyond the help itself):
 
 When I run <span>`-h`</span> as a user, I’m getting two things: confirmation that the tool is installed correctly (without doing something destructive), and secondly, some idea of what to do next.
 
-Incidentally, as a user I can get the first effect running <span>`-v`</span> (the command-line option that tells me what version of the tool I’m running), but encouraging users to <span>`-h`</span> as the first step after install provides hints as to what to do next, without switching context and reading docs. 
+As a user I can also get the first effect – confirmation of install – by running <span>`-v`</span> – the command-line option that tells me what version of the tool I’m running – but encouraging users to run <span>`-h`</span> as the first step after install also provides hints as to what to do next, and without switching context and reading docs.
+
+👉 Remember to reserve <span>`-h`<span> and <span>`-v`</span> for "help" and "version", and not to repurpose them as commands specific to your tool. 
+
+#### B. "Am I in the right place?"
+
+Ideally they've starting from your website and docs, but more likely they read about it on a blog describing a solution to the problem they just Googled.
+
+I think Ignite does a really good job here of confirming I'm using the right thing. If the blog I read says "Install ignite" and the output of <span>`-h`</span> proudly proclaims "🔥 <span style="color: #dd0000">Ignite</span> 🔥", then I know I'm on the right path to solving my issue.
+
+👉 Not all CLIs are created equal and not every CLIs will render emoji - something [Windows is terrible at](https://twitter.com/jamonholmgren/status/1318753153165053952) in general, and eerily reminiscent of browser/CSS standard compatibility (IE6 and rounded corners, anyone?).    
+
+#### C. "Do I understand what this does?"
+
+This might sound similar to the question above, but it's purpose is different and indicative of the difference between GUI and CLI. A GUI helps the user build a mental model of the system using a visual representation. CLI doesn't have that benefit, but requires the same outcome. 
+
+Ignite achieves this with the information that "Ignite is a CLI that helps you spin up a new React Native app using a battle-tested tech stack". 
+
+We can illustrate the mental model being built with this sentence by looking at the etymology of a couple of the phrases used:  
+
++ **[Spinup](https://en.wiktionary.org/wiki/spinup)**: (computing) The process of a disk drive spinning up.
++ **[Tech stack](https://en.wiktionary.org/wiki/stack)** In computing. A standard set of software components commonly used together on a system.
 
 <hr/>
 
