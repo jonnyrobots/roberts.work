@@ -73,8 +73,37 @@ We can illustrate the mental model being built with this sentence by looking at 
 + **[Spinup](https://en.wiktionary.org/wiki/spinup)**: (computing) The process of a disk drive spinning up.
 + **[Tech stack](https://en.wiktionary.org/wiki/stack)** In computing. A standard set of software components commonly used together on a system.
 
+👉 I don't think it's feasible to rely on the command-line to impose a mental model on your user, particularly in more complex scenarios. At this point it's useful to defer to project documentation, with illustrations - something we do in [Flyway](https://flywaydb.org/documentation/getstarted/how). 
+
+
+#### D. "Do I understand the implications of my actions?"
+
+This question is about user trust. The CLI is often considered a more powerful interface because its assumption is that you know what you're doing. But that also makes it harder to gain trust - do I really want to copy-paste that <span>`sudo`</span> command I found on the internet without understanding what it will do?
+
+Ignite achieves this by listing all the commands, with a description of their purpose and an example of its use, in a table. The design of the commands table in Ignite is good because it:
+
++ Lists commands in structured format that's easy to read as a **human**. 
++ Uses contrasting to differentiate command from description
+
+👉 Whenever your command-line returns an output, think about the format of that content. Pure json – ie. a long string of text – might be machine readable, but it less easy for a human to parse. If a human needs to parse the output, make sure you structure it. 
+
+#### E. "Now what?"
+
+Understanding a handful of commands is just the beginning. Individual differences in technical environments and requirements make it near impossible to cater for every eventuality in the tool. That's where human help comes in - either through documentation or through asynchronous conversation.
+
+Ignite does a great job of not just linking out to its documentation, but goes one step further by creating somewhere for its user community to go, and to support itself via their Slack community.
+
+👉 The user "community" is a really powerful ecosystem for a lot of products, but especially so for developer tools. People get attached to their tools and like the affirmation of their good choices from like-minded people. Perhaps a better reason to create and support a community is for the opportunities to spot and improve on usability issues.   
+
+### Summary
+
+This is an all too brief review of one command-line tool. It's not intended to be a comprehensive guide to CLI design, but a first step towards a more complete guide to designing for the CLI. 
+
+If this has been useful, please [let me know](https://ctt.ac/lOd60) and I'll follow this up with some review and guidance for discovery and installation interaction design. 
+
+
 <hr/>
 
 **Footnotes**
 
-[^1]: The information that is out there is disparate, and is either too esoteris to be practical, or is practical but lacks substance
+[^1]: The information that is out there is disparate, and is either too esoteric to be practical, or is practical but lacks substance
