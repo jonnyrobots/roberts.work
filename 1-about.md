@@ -51,3 +51,10 @@ If I'm not in the office, you'll find me at my desk writing [Designance](https:d
 <img src="{{ site.baseurl }}/images/cave.jpg">
 <figcaption>My "cave"</figcaption>
 </figure>
+
+<hr/>
+
+#### Attributions
+<ul>
+<li><a href="https://www.freepik.com/psd/mockup" rel="nofollow">Mockup psd created by freepik - www.freepik.com</a></li>
+</ul>
