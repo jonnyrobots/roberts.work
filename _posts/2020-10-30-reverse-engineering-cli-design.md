@@ -97,10 +97,9 @@ Ignite does a great job of not just linking out to its documentation, but goes o
 
 ### Summary
 
-This is an all too brief review of one command-line tool. It's not intended to be a comprehensive guide to CLI design, but a first step towards a more complete guide to designing for the CLI. 
+This is an all too brief review of one command-line tool. It's not intended to be a comprehensive guide to CLI design, but a first step towards a more complete guide to designing for the CLI, which you can register your interest in getting an early look at below:
 
-If this has been useful, please [let me know](https://ctt.ac/lOd60) and I'll follow this up with some review and guidance for discovery and installation interaction design. 
-
+<script async data-uid="de5ff9a08d" src="https://relentless-maker-3970.ck.page/de5ff9a08d/index.js"></script>
 
 <hr/>
 

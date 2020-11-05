@@ -1,13 +1,11 @@
 * {
     font-family: 'Source Sans Pro', sans-serif;
     // font-size: 16px;
-    color: #292d2d;
-    
-}
+    }
 h1, h2 {font-size:2em; margin: 0; padding: 0;}
 h3 {font-size: 1.8em; font-weight: 400; margin: 0 0 .8em; padding: 0;}
 h4 {font-size: 1.2em; font-weight: 600; margin: 0 0 .8em; padding: 0;}
-p { font-weight: 400; margin: 0 0 1.6em; line-height: 1.8em; padding: 0; letter-spacing: 0.01em; font-size: 1.1em}
+p { color: #292d2d; font-weight: 400; margin: 0 0 1.6em; line-height: 1.8em; padding: 0; letter-spacing: 0.01em; font-size: 1.1em}
 
 a {color: #fc3437; text-decoration: none;}
 a:hover {color: #e53039;}
@@ -44,7 +42,9 @@ ul {margin: 0 0 2em;}
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 1)
+    background: rgba(255, 255, 255, 1);
+    //cludge for convertkit
+    z-index: 10;
 }
 
 .header .item {
@@ -58,7 +58,7 @@ ul {margin: 0 0 2em;}
  
 }
 .content, .footer {
-    max-width: 540px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 0 2em;
 }
