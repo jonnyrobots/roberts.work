@@ -2,6 +2,7 @@
 layout: post
 title:  "Reverse engineering CLI design"
 abstract:  What makes a good CLI design
+permalink: /reverse-engineering-cli-design/
 date:   2020-11-02 21:30:00 +0000
 categories: article
 readtime: 5 minutes
