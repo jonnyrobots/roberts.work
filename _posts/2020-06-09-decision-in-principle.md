@@ -3,6 +3,7 @@ layout: post
 title:  "A decision in principle"
 subtitle: "No.003 - Making difficult choices easy"
 date:   2020-06-09 20:45:59 +0000
+permalink: /designance/003-a-decision-in-principle
 categories: designance
 image: <img src="/images/principles.png"/> 
 readtime: 12 minutes

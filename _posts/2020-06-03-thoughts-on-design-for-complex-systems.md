@@ -2,6 +2,7 @@
 layout: post
 title:  "Design for complex systems"
 abstract: A make or break moment for UX 
+permalink: /articles/design-for-complex-systems
 date:   2020-06-02 22:00:00 +0000
 categories: article
 readtime: 4 minutes
