@@ -2,6 +2,7 @@
 layout: page
 title: Developer Experience Design
 permalink: /developer-experience-design/
+exclude: true
 ---
 
 # Developer Experience Design
