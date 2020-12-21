@@ -23,7 +23,7 @@ The popularity of CLIs as the primary interface is growing rapidly. This growth 
 
 Three engineering principles drive this trend:
 
-1. **Automation** - prevent time waster on repetitive work  
+1. **Automation** - prevent time wasted on repetitive work  
 2. Platform and Operating System (OS) **agnosticism** - prevent lock-in
 3. **Composabilty** - enable unique needs to be met  
 
