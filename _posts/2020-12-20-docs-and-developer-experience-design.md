@@ -11,29 +11,40 @@ readtime: 5 minutes
 # Docs &amp; Developer Experience Design
 ### Improving the Developer Experience with docs
 
-Nothing has done more to expand the adoption of computers than the graphical-user interface (GUI). Simple visual metaphors (a file, the desktop, a document) provided a shortcut to learning how to interact with software. 
+Coming up:
+1. <a href="">Why is documentation critical again?</a>
+   i. 
+2. <a href="">How to design great documentation</a>
 
-Point. Click. Done. 
+<hr/>
 
-GUIs, by their nature, explain almost immediately how a system works: “Click this button”. The same is not true for products where there is no GUI. 
+### Why is documentation critical again?
 
-Designers of command-line interface (CLI) products, for example, have to work harder to help their users build a mental model of how their software works.
+Nothing did more to expand the adoption of computers than the graphical-user interface (GUI). Simple visual metaphors (a file, the desktop, a document) provided a shortcut to learning how to interact with software.
 
-The popularity of CLIs as the primary interface is growing rapidly. This growth is due in large part to an organisational desire to focus on its core competency. A software business starting out today wouldn’t build its own payments infrastructure, it’d use Stripe. 
+GUIs by their nature immediately explain how a system works, negating the need for documentation. Designers of intuitive products saw their salaries rise, while technical authors were unceremoniously set aside. If it needed a manual, the product had failed.
 
-Three engineering principles drive this trend:
+Today the trend for GUI-first products has slowed, and GUI-less products are reversing the trend entirely. When the UI is text-based there is less 'affordance', and documentation finds itself back at the center of the user experience.
+
+Without graphical metaphors to fall back on, designers of command-line interface (CLI) products, for example, have to work harder to help their users build a mental model of how to work their software. 
+
+The popularity of CLIs as the primary interface is growing rapidly. This growth is due in large part to the desire for efficiency. A business starting out today wouldn’t dream of building its own payments infrastructure. It’d use Stripe. 
+
+This trend is illustrated in three engineering principles:
 
 1. **Automation** - prevent time wasted on repetitive work  
-2. Platform and Operating System (OS) **agnosticism** - prevent lock-in
+2. **Agnosticism** towards Platform and Operating System (OS) - prevent lock-in
 3. **Composabilty** - enable unique needs to be met  
 
-As a consequence of this, the humble CLI (and API) has found itself at the centre of a battle for competitive advantage. Good UX design – or should I say Developer Experience Design – is once again a differentiator. The easier our CLI is to use, the greater the likelihood of user adoption.
+As a consequence of this, the humble CLI (and API) has found itself at the centre of a battle for competitive advantage. Good UX design – or should I say Developer Experience Design – is once again a differentiator. The easier your CLI is to use, the greater the chances your product is chosen over the competition.
 
-Where CLI (and API, ML and AI) products were once the sole domain of deeply technical people, that is demonstrably less true today[^1]. The field of User Experience (UX), and Human Computer Interaction (HCI) – fields that arguably lead to the creation of the GUI – have some catching up to do.  
+Where CLI (and API, ML and AI) products were once the domain of deeply technical people, today that is demonstrably less true[^1]. The field of User Experience (UX), and Human Computer Interaction (HCI) – fields that arguably lead to the creation of the GUI – have some catching up to do. 
 
-The ability to pick up and learn a CLI product relies heavily on good documentation. Exactly what makes documentation *good* might seem obvious, yet from my experience working on [@flywaydb](https://twitter.com/flywaydb), the task of producing it quickly becomes complex.
+The ability to learn how to drive a CLI product relies heavily on good documentation across all levels of user competency. What makes for good documentation might seem obvious, but from my experience working on [@flywaydb](https://twitter.com/flywaydb), the task of producing it quickly becomes complex.
 
-To be continued...
+## How to design great documentation
+
+
 
 _Subscibe to the newsletter to be notified when the rest of the article – including how to make Information Architecture decisions, types of docs and what goes in them, and deciding how and where to start – is avaiable to read:_
 
