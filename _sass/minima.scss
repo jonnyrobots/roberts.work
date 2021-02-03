@@ -10,10 +10,7 @@ p { color: #292d2d; font-weight: 400; margin: 0 0 1.6em; line-height: 1.8em; pad
 a {color: #fc3437; text-decoration: none;}
 a:hover {color: #e53039;}
 a:active {background-color:#e9f4f4; color: #e53039;}
-
-a.logoLink {
-    color: #292d2d;
-}
+a.logoLink {color: #292d2d;}
 
 body {padding: 0em; margin: 0;}
 
@@ -242,4 +239,18 @@ p.disclaim {
   margin-top: -2.75em;
   height: 2.75em;
   width: 1px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {background: #1e1e1e;color: #c9c9c9}
+  p {color: #c9c9c9}
+  a {color: #f58984; text-decoration: none;}
+  a:hover {color: #f58984;}
+  a:active {background-color:#111111; color: #f58984;}
+  a.logoLink {color: #e9f4f4;}
+  .header {background-color:#1e1e1e}
+  ul.article-list li {border-bottom: 1px solid #414141}
+  hr {border: 1px solid #414141}
+  ul.newsletter h3 {color: #f58984}
+  ul.newsletter li span {border: 1px solid #414141;  box-shadow: none }
 }
