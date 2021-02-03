@@ -11,7 +11,7 @@ readtime: 15 minutes
 # Capturing value as a COSS business
 ### A conversation with Joseph Jacks, OSS Capital
 
-[⏩ Skip to the conversation](#content) or [🎧 listen to the audio version](#)
+Feel free to [⏩ skip to the conversation](#content), [🎧 listen to the audio version instead](#) or [⚡️ cheat altogether with the hightlights](https://twitter.com/jonny_robots/status/1356290000443289602) 
 
 #### First, some background
 
