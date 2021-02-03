@@ -5,7 +5,7 @@ permalink: /designance/
 ---
 
 # Designance
-<iframe height="320" src="https://designance.substack.com/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe style="background: #eeeeee; border-radius: 5px; margin-top: 10px" height="320" src="https://designance.substack.com/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <p>Designance is a newsletter I write while exploring the principles of design and finance, pitting my investing skills against creating a product of my own.</p>
 
