@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Developer Experience Design
+title: Book
 permalink: /developer-experience-design/
-exclude: true
+
 ---
 
 # Developer Experience Design

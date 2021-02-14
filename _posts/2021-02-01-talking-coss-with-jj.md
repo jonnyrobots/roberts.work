@@ -124,5 +124,3 @@ Yeah I recognize all of those things that you were saying there, we've been thro
 **It's been great talking to you JJ, hopefully we can follow up again soon. I appreciate all of your advice and the benefit of your experience, thank you**.
 
 > JJ: My pleasure, thanks for reaching out, Jonny. 
-
-

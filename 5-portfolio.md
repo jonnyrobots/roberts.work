@@ -2,6 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+exclude: true
 ---
 
 <h1>Portfolio</h1>

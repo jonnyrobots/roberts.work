@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designance
+title: Newsletter
 permalink: /designance/
 ---
 
