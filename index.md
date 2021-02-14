@@ -12,10 +12,11 @@ title: Hi 👋
 <h1>Hi, I'm Jonny. <span style="font-weight: 300">I help companies research their ideas, design great products, and create successful businesses.</span></h1>
 <br/>
 #### Currently
-I’m helping <a href="https://www.red-gate.com/" target="_blank">@redgate</a> evolve its product portfolio, working on new product development and its acquisition of [Flyway](https://flywaydb.org/). 
 
-In my spare time I produce <a href="https://designance.substack.com">Designance</a>, a newsletter about the principles of design, finance and investing in software.  
-                
+I work on product strategy and revenue growth for [flywaydb.org](https://flywaydb.org/), commercial Open Source software used by tens of thousands of development teams.
+
+In my spare time I produce a <a href="https://designance.substack.com">newsletter</a> about the principles of design and finance, and work on bringing UX design to GUI-less software at <a href="https://designdev.tools">designdev.tools</a>.
+
 #### Previously
-I helped <a href="https://twitter.com/geomonitors" target="_blank">@geomonitors</a> move to a user-centered design process, enabling them to deliver<a href="https://twitter.com/@askcosy" target="_blank">@askcosy</a> for <a href="https://www.first-utility.com/cosy" target="_blank">first:utility</a>.
+I led the new product development team that created <a href="https://spawn.cc">spawn.cc</a>, and helped <a href="https://twitter.com/geomonitors" target="_blank">@geomonitors</a> move to a user-centered design process, enabling them to deliver <a href="https://twitter.com/@askcosy" target="_blank">@askcosy</a> for <a href="https://www.first-utility.com/cosy" target="_blank">first:utility</a>.
 
