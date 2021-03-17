@@ -25,6 +25,13 @@ I hope it's useful to Open Source project founders interested in founding compan
 2. [A commercial OSS product/company is made in three movements]()
 3. [Open Source means great distribution and ease of adoption]()
 4. [Capturing value from OSS is hard; Cloud SaaS is the most prevalent solution]()
+5. ⏳ [The todo list is infinite; what needs doing next depends on where your product is in its life]() 
+6. ⏳ [Without observational reach, OSS users are stuck at 0 in the 1-2-3 model]()
+7. ⏳ [Developers engage in communities where they can learn]()
+8. ⏳ [The org structure for delivering at “1” & “2” is necessarily different to “3”]()
+9. ⏳ [Today’s $10-20k deal is tomorrow’s $500-$1m customer]()
+
+
 
 <br/>
 - - - 
