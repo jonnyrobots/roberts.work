@@ -9,8 +9,6 @@ readtime: 7 minutes
 
 # Forming and operating an Open Source software company
 
-### How Open Source software projects turn into revenue-generating companies.
-
 In 2019 we acquired a company with an “open core” product. The simplest version of the product was provided for free, available as Open Source software (OSS). On top of the free OSS (“FOSS”) version was a commercial version (“COSS”) with additional features targeted at a subset of the total user base.
 
 That business was different in every way to the one that acquired it: in commercial model (subscription), pricing model (per unit), distribution model (OSS), user interface (CLI), market, end user... there was a lot to understand. 
@@ -20,25 +18,21 @@ I’ve spent the last two years learning how to design, develop and operate that
 I hope it's useful to Open Source project founders interested in founding companies.  
 
 **In this article**:
+- [Forming and operating an Open Source software company](#forming-and-operating-an-open-source-software-company)
+  - [What constitutes an “Open Source” business has changed over time​](#what-constitutes-an-open-source-business-has-changed-over-time)
+  - [A commercial OSS product/company is made in three movements](#a-commercial-oss-productcompany-is-made-in-three-movements)
+  - ["Open Source" means great distribution and ease of adoption](#open-source-means-great-distribution-and-ease-of-adoption)
+  - [Capturing value from OSS is hard; Cloud SaaS is the most prevalent mechanism](#capturing-value-from-oss-is-hard-cloud-saas-is-the-most-prevalent-mechanism)
+  - [Without observational reach, OSS users are stuck at 0](#without-observational-reach-oss-users-are-stuck-at-0)
+  - [⏳ Developers engage in communities where they can learn](#-developers-engage-in-communities-where-they-can-learn)
+  - [⏳ Organisational structure and focus](#-organisational-structure-and-focus)
+  - [⏳ Today’s $10-20k deal is tomorrow’s $500-$1m customer](#-todays-10-20k-deal-is-tomorrows-500-1m-customer)
 
-1. [What constitutes an Open Source business has changed over time]()
-2. [A commercial OSS product/company is made in three movements]()
-3. [Open Source means great distribution and ease of adoption]()
-4. [Capturing value from OSS is hard; Cloud SaaS is the most prevalent solution]()
-5. ⏳ [The todo list is infinite; what needs doing next depends on where your product is in its life]() 
-6. ⏳ [Without observational reach, OSS users are stuck at 0 in the 1-2-3 model]()
-7. ⏳ [Developers engage in communities where they can learn]()
-8. ⏳ [The org structure for delivering at “1” & “2” is necessarily different to “3”]()
-9. ⏳ [Today’s $10-20k deal is tomorrow’s $500-$1m customer]()
-
-
-
-<br/>
 - - - 
 
 <br/>
 
-### What constitutes an “Open Source” business has changed over time​
+## What constitutes an “Open Source” business has changed over time​
 
 There is no standard definition for “open source”. How you choose to define it depends largely on the OSS project you’re talking about, and the period of time in which you’re talking.
 
@@ -57,9 +51,9 @@ Also beware of the “Period” column. You may be tempted to infer, for example
 
 Today, most COSS companies are most recognisable as “Open Source 2.0”. These OSS projects are created and commercialised through “as a Service” offerings. MongoDB (OSS) and Mongo Atlas (SaaS) are a perfect example of this. However, “Phase” is important, and for OSS project founders, it’s useful to think about each as an incremental step as you grow your product and company. As we’re about to see.
 
-### A commercial OSS product/company is made in three movements
+## A commercial OSS product/company is made in three movements
 
-One of the great things about OSS projects are that they often start life as a solution to a problem the project founder experienced. Problems experienced in commercial settings (ie. experienced while being paid) have the most potential for being commercialised [^ As an aside, this is one of the biggest potential disruptors to the UX industry as it dispatches the notion that “you are not your user”.]. How you get there happens in three movements.
+One of the great things about OSS projects are that they often start life as a solution to a problem the project founder experienced. Problems experienced in commercial settings (ie. experienced while being paid) have the most potential for being commercialised [^1]. How you get there happens in three movements.
 
 | Movement | Name | Description | Success measure |
 | - | - | - | - |
@@ -73,7 +67,7 @@ This means being patient and disciplined. And this is important because commerci
 
 To succeed as a COSS business, you need a large Total Addressable Market (TAM) and a huge user base to convert. This is where Open Source comes in to its own: distribution. 
 
-### "Open Source" means great distribution and ease of adoption 
+## "Open Source" means great distribution and ease of adoption 
 
 The most compelling reason to build a company on top of an OSS project is distribution. Or put another way, the reason most COSS companies are born into existence is because of the _incredible distribution OSS affords_.
 
@@ -97,30 +91,58 @@ Creators of OSS projects, with aspirations to found companies should look at OSS
 
 So, where's the downside...?
 
-### Capturing value from OSS is hard; Cloud SaaS is the most prevalent mechanism 
+## Capturing value from OSS is hard; Cloud SaaS is the most prevalent mechanism 
 
-Capturing value from OSS is hard; Cloud SaaS the most prevalent mechanism
+Capturing value from OSS is hard; Cloud SaaS is the most prevalent mechanism
 
 When an Open Source project experiences success (see Fig. 2), it's time to "extract the value" created. This involves creating a commercial entity, coming up with something to sell and then marketing it.
 
-There's no consensus for the "right" way to brand your commercial entity. Some people choose to name the company after the project (eg. Docker and Docker, Inc), others are happy for the two to be distinct (eg. Wordpress and Automaticc, Inc). Regardless, it is very important to own the trademark to the name of the OSS project, since this is the name users most readily associate with the software[^ Owning the trademark doesn't mitigate this risk entirely – see Mongo and AWS – but it makes the risk manageable].
+There's no consensus for the "right" way to brand your commercial entity. Some people choose to name the company after the project (eg. Docker and Docker, Inc), others are happy for the two to be distinct (eg. Wordpress and Automaticc, Inc). Regardless, it is very important to own the trademark to the name of the OSS project, since this is the name users most readily associate with the software[^2].
 
-As for *what* to sell, that's laid out in Fig. 1. Depending on the complexity of your code, the most obvious first paid-for feature is "support"; allowing customers to tap you up for your knowledge of the software and the problem space.
+Revenue for COSS businesses comes from the employers of the people using the OSS project. Beyond charging for "support" (see Fig. 1), company founders need to think past individual user needs, understand the commercial setting in which they're working and look to build what's valuable to the individual's team or organisation as a whole. 
 
-Revenue for COSS businesses comes from the employers of the people using the OSS project. Beyond "support", company founders need to think past individual user needs and understand the commercial setting in which they're working. 
+Most COSS businesses opt for a Cloud-hosted product provided as SaaS. The value is usually captured by removing operational cost and adding in collaboration capabilities (which teams value) and compliance features (which Enterprise organisations value). 
 
-The biggest challenge to building a COSS business is how to market. When you offload distribution of your OSS toGitHub, let's say, you surrender control and with it useful information about who's consuming your code, how and where. You lack “observational reach”, and getting it is hard work that involves trying to talk to your users. 
+None of this is any good if you don't have a relationship with your OSS user base. 
 
-This is where having a healthy OSS project community comes in useful.
+## Without observational reach, OSS users are stuck at 0
 
-Most COSS businesses though opt for a Cloud-hosted product provided as SaaS where the value is in removing the operational cost and adding in collaboration features (which teams value) and compliance features (which Enterprise organisations value). A free tier provides a way to achieve observational reach via the service, and to market to them as a quid pro quo for free use of the (usually limited) service. 
+The biggest challenge to building a COSS business is how to market to the OSS user base. When you offload distribution of your OSS to GitHub, for example, you surrender control and with it useful information about who's consuming your code, how and where. Knowing this and having “observational reach” is key to converting users into customers.
 
-| Level | 0 | 1 | 2 | 3 |
+The "1-2-3" model illustrates this in the context of how an OSS project feeds into a COSS business. This table shows that progression from left to right.
+
+| Stage | 0 | 1 | 2 | 3 |
 | - | - | - | - | - |  
-| **Type** | 👤 <br/>Individual | 👩‍💻 <br/>Individual | 👩‍💼👩‍💻👨‍💻 <br/>Team | 🏢 <br/>Enterprise | 
-| **Status** | Unknown | Community member | Customer | Enterprise customer | 
+| **Type** | 👤 Individual | 👩‍💻 Individual | 👩‍💼👩‍💻👨‍💻 Team | 🏢 Enterprise | 
+| **Status** | Unknown user | Community member (known) | Customer | Enterprise customer | 
+| **Size** |100,000|50,000|2,000|100|
 | **Value** | Creation  | Creation / Education | Collaboration | Compliance | 
-| **GTM** | OSS (free) | Community (free) | Paid (self serve) | Paid (Account sale) |
-| **Metrics** | None | MAU | MRR | ACV |  
+| **Motion** | Free <br/>(OSS) | Free <br/>(Community) | Paid <br/>(Self serve) | Paid <br/>(Account sale) |
+| **Metric** | Repo Stars | MAU | MRR | ACV |  
 
-*Fig. 4. Table showing the "1-2-3" model[^Cf. Adam Gross], with 0 added to account for state of no observational reach.*
+*Fig. 4. Table showing the "1-2-3" model[^2], with 0 added to account for state of no observational reach.*
+
+Before it can successfully market a commercial offering, a COSS business needs to get observational reach into the user base to understand:
+
+1. **Who the user base is**. It is hard to market to the OSS user base if they are anonymous (or even pseudonymous, as most GitHub accounts are). 
+2. **How the software is used**. Most OSS projects with the potential to generate revenue solve problems at the infrastructure layer. Infrastructure is sensitive, which constrains options for telemetry.
+
+Obtaining this understanding is fraught with technical (ie. how) and religious (ie. being a good OSS citizen) questions. But, failure to build user base visibility means failure full stop. NPM, which ended up being sold to GitHub is a good example of this. 
+
+While Cloud-hosted SaaS is the logical product conclusion (today), it is a large, long-term investment. There are smaller investments that can and should be made along the way to increase engagement and permission to market to the user base.
+
+Which brings us to Community.
+
+## ⏳ Developers engage in communities where they can learn
+
+## ⏳ Organisational structure and focus
+
+## ⏳ Today’s $10-20k deal is tomorrow’s $500-$1m customer
+
+<hr/>
+
+**Footnotes**
+
+[^1]: As an aside, this is one of the biggest potential disruptors to the UX industry as it dispatches the notion that “you are not your user”.
+[^2]: Owning the trademark doesn't mitigate this risk entirely – see Mongo and AWS – but it makes the risk manageable
+[^3]: For more information on the 1-2-3 model see Adam Gross, former Heroku CEO, talk about [building self-serve go to market](https://www.heavybit.com/library/video/self-serve-go-to-market/).  
