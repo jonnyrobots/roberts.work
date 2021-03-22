@@ -2,9 +2,9 @@
 layout: post
 title:  "Forming and operating a Commercial Open Source software company"
 abstract: A explnation of how open source software projects turn into revenue-generating companies.
-permalink: /articles/forming-operating-coss/
+permalink: /articles/forming-and-operating-coss/
 date:   2021-03-03 21:03:00 +0000
-readtime: 7 minutes
+readtime: 10 minutes
 ---
 
 # Forming and operating an Open Source software company
@@ -24,7 +24,7 @@ I hope it's useful to Open Source project founders interested in founding compan
   - ["Open Source" means great distribution and ease of adoption](#open-source-means-great-distribution-and-ease-of-adoption)
   - [Capturing value from OSS is hard; Cloud SaaS is the most prevalent mechanism](#capturing-value-from-oss-is-hard-cloud-saas-is-the-most-prevalent-mechanism)
   - [Without observational reach, OSS users are stuck at 0](#without-observational-reach-oss-users-are-stuck-at-0)
-  - [⏳ Developers engage in communities where they can learn](#-developers-engage-in-communities-where-they-can-learn)
+  - [Developers engage in communities where they can learn](#developers-engage-in-communities-where-they-can-learn)
   - [⏳ Organisational structure and focus](#-organisational-structure-and-focus)
   - [⏳ Today’s $10-20k deal is tomorrow’s $500-$1m customer](#-todays-10-20k-deal-is-tomorrows-500-1m-customer)
 
@@ -133,7 +133,27 @@ While Cloud-hosted SaaS is the logical product conclusion (today), it is a large
 
 Which brings us to Community.
 
-## ⏳ Developers engage in communities where they can learn
+## Developers engage in communities where they can learn
+
+Commercial OSS companies generate less revenue per unit than closed-core (or “proprietary”) software businesses. Put simply, conversion rates for OSS are low. Very low. A typical COSS business should only expect to convert between 1 and 2 percent of its free OSS user base.
+
+Subsequently, operating a successful (ie. profit-generating) COSS business requires an extremely large FOSS user base. Having a vibrant community is a key part of achieving this. 
+
+Some things to remember when building a community:
+
+- Where the community exists – LinkedIn, Slack, Discord – doesn’t matter in the first instance, but in time aspire to have control of the channel and the member list
+- The "Community member" persona is much more likely to be a consumer of the software, as opposed to a contributor of code (although code isn't the only contribution an individual can make to an OSS project)
+- The purpose of the Community should be to support the learning and development of members, which is accelerated by producing content 
+- The subject of the content depends on where the product is in its lifecycle; OSS that's novel new technology might first focus on the behind-the-scenes detail to grow interest and early adopters 
+- Documentation is the number 1 thing to get right. Aspire to answer every question about how to use the software directly, and then follow up by making sure that's captured in documentation
+
+In time, the Community will become your main mechanism for observational reach and, done properly, earn you the right to increase awareness of the value in paying for the commercial version. But, it's important to recognise that there's a stage in between user base growth and conversion; awareness of paid value. 
+
+One way to subtly increase awareness of paid value whilst still focusing on the core principle of Community value – education – is by producing a  course. Spending time to create structured learning not only provides education for the participant but can also:
+
+- Raise awareness of your product when course attendees share news of their accreditation with their network 
+- Turn into a revenue stream itself if the course ends up being valuable enough to charge for
+- Raise awareness of your paid-features by teaching concepts that rely on using paid features 
 
 ## ⏳ Organisational structure and focus
 
