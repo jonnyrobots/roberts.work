@@ -4,7 +4,7 @@ title:  "Forming and operating a commercial OSS business"
 abstract: More research into the commercial models behind commercial Open Source software companies, and an explanation of how OSS projects turn into revenue-generating companies.
 permalink: /articles/forming-and-operating-coss/
 date:   2021-03-03 21:03:00 +0000
-readtime: 10 minutes
+readtime: 15 minutes
 categories: article
 ---
 
@@ -179,7 +179,7 @@ Open Source licensing, expectations around telemetry and GitHub make work to sep
 
 In movement 2, you're still a core product/engineering team but you're beginning to exercise individual specialisms. Start with marketing and if all goes well, it'll be closely followed by sales. 
 
-At this point, marketing is about raising the level of awareness within your community/free user base that a) there's a commercial product available, and b) there's absolute clarity in it's value. 
+At this point, marketing is about raising the level of awareness within your community/free user base that a) there's a commercial product available, and b) there's absolute clarity in its value. 
 
 You're an engineering team building the paid-for features, talking about them – in general terms and in sales calls, – and implementing the payment systems to charge for them.
 
@@ -201,11 +201,11 @@ In the third movement you're organised in a way that's almost completely unrecog
 
 In the early days you'll celebrate every new customer you acquire, regardless of the additional ARR each brings. Then one day you'll bring in a big deal and those <$5k deals will start to look less interesting. 
 
-One thing to note is that moving from movement 2 to 3 often leaves the lower value transactions without human interaction. A benefit of putting a human in charge of transactional sales is that's its a way to ensure the the gap to enterprise sales is bridged when those customers are ready. 
+One thing to note is that moving from movement 2 to 3 often leaves the lower value transactions without human interaction. A benefit of putting a human in charge of transactional sales is that it's a way to ensure the the gap to enterprise sales is bridged when those customers are ready. 
 
 Elastic industrialised this with a group called “At Scale” - progressing the higher end of the long tail. Of course you should also align sales incentives to the things you want to sell.
 
-It pays to be disciplined and continue to focus on landing those <$5k deals, becuase a healthy SaaS business is built on three metrics: ARR/MRR, MAU and NDR. 
+It pays to be disciplined and continue to focus on landing those <$5k deals, because a healthy SaaS business is built on three metrics: ARR/MRR, MAU and NDR. 
 
 - **ARR/MRR** - Annual Recurring Revenue / Monthly Recurring Revenue – how much recurring revenue do you have on an annual and monthly basis. 
 - **MAU** – Monthly Active Users – how many people are actively using your product each month.
