@@ -1,11 +1,11 @@
 * {
     font-family: 'Source Sans Pro', sans-serif;
-    // font-size: 16px;
+    font-size: 18px;
     }
 h1, h2 {font-size:2em; margin: 0; padding: 0;}
 h3 {font-size: 1.8em; font-weight: 400; margin: 0 0 .8em; padding: 0;}
 h4 {font-size: 1.2em; font-weight: 600; margin: 0 0 .8em; padding: 0;}
-p { color: #292d2d; font-weight: 400; margin: 0 0 1.6em; line-height: 1.8em; padding: 0; letter-spacing: 0.01em; font-size: 1.1em}
+p { color: #292d2d; font-weight: 400; margin: 0 0 1.6em; line-height: 2em; padding: 0; letter-spacing: 0.025em; font-size: 1em}
 
 a {color: #fc3437; text-decoration: none;}
 a:hover {color: #e53039;}
@@ -19,9 +19,8 @@ img {display: block; margin: 0 auto; max-width: 80%; height: auto; width: auto\9
 figure {padding: 0; margin: 0 0 2em;}
 figcaption {font-size: .6em; padding: 1em 0 0 ; font-style: italic; text-align: center; }
 figcaption a {font-size: 1em}
-strong {font-weight: 400;}
 .Navbar__Link-brand strong {font-weight: 600}
-li {margin: 0 0 .4em; }
+li {margin: 0.4em 0 0; }
 li p {margin: 0;}
 blockquote {border-left: 2px solid #fc3437; margin: 0; padding: 0 5%; font-style: italic;}
 table {margin: 0 0 2em; width: 100%;}
@@ -29,9 +28,15 @@ th, td {border-bottom: 1px solid #ccc;}
 thead {text-align: left;}
 code {font-family: 'Courier New', Courier, monospace; font-size: 0.8em; font-weight: bold; padding: 1em; background: #2a2e39; display: block; white-space : pre-wrap !important; color: #b0d0d0;}
 span code {display: inline; padding: 0.2em 0.5em; border-radius: 2px;}
-strong {font-weight: 600;}
+strong {font-weight: 800;}
 sup {line-height: 0;}
-ul {margin: 0 0 2em;}
+
+ul {margin: 0 0 2em; padding: 0 0 0 1em; line-height: 1.8em; font-size: inherit; letter-spacing: 0.01em;}
+ul li ul {margin: 0 0 .4em;}
+ol {font-size: 1.1em; margin: 0 0 1em; padding: 0 0 0 1em;}
+ol li {line-height: 1.8em; letter-spacing: 0.01em;}
+
+td, thead, th {padding: 0.8em; text-align: center;}
 
 .header {
     margin: 0;
