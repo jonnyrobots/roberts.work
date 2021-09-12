@@ -15,7 +15,7 @@ title: Hi 👋
 
 I work on product strategy and revenue growth for [flywaydb.org](https://flywaydb.org/), commercial Open Source software used by tens of thousands of development teams.
 
-In my spare time I produce a <a href="https://designance.substack.com">newsletter</a> about the principles of design and finance, and work on bringing UX design to GUI-less software at <a href="https://designdev.tools">designdev.tools</a>.
+In my spare time I like to write; for independent software developers <a href="https://gitacquired.org">preparing for acquisition</a>, and about the principles of <a href="https://designance.substack.com">design and finance</a>. 
 
 #### Previously
 I led the new product development team that created <a href="https://spawn.cc">spawn.cc</a>, and helped <a href="https://twitter.com/geomonitors" target="_blank">@geomonitors</a> move to a user-centered design process, enabling them to deliver <a href="https://twitter.com/@askcosy" target="_blank">@askcosy</a> for <a href="https://www.first-utility.com/cosy" target="_blank">first:utility</a>.
