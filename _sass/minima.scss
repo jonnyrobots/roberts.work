@@ -36,6 +36,11 @@ ol li {line-height: 1.8em; letter-spacing: 0.01em;}
 
 td, thead, th {padding: 0.8em; text-align: center;}
 
+.home {
+  padding-left: 4em;
+  background: url("../images/me-circle.png") no-repeat 0em .2em/50px;
+}
+
 .header {
     margin: 0;
     padding: 1em 0;
@@ -132,6 +137,12 @@ td, thead, th {padding: 0.8em; text-align: center;}
   
   @media only screen and (max-width: 768px) 
   {
+    .home {
+      padding-top: 4em;
+      padding-left: 0;
+      background: url("../images/me-circle.png") no-repeat 0em 0em/50px;
+    }
+
     img {max-width: 100%;}
     .avatar {max-width: 40%; }
     .Navbar__Items,

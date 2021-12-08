@@ -6,17 +6,16 @@ layout: home
 exclude: true 
 title: Hi 👋
 ---
+<!-- 
+<img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/> -->
 
-<img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/>
-
-<h1>Hi, I'm Jonny. <span style="font-weight: 300">I help companies research their ideas, design great products, and create successful businesses.</span></h1>
+<h1>I'm Jonathan. <span style="font-weight: 300">I help companies research their ideas, design great products, and create successful businesses.</span></h1>
 <br/>
+
+I specialise in the research and development of commercial strategies that bring revenue growth from <a href="https://www.realwire.com/releases/Redgate-cements-position-as-leading-vendor-with-Flyway-acquisition">M&amp;A</a>, through <a href="https://spawn.cc">New Product Development</a>, and from improved <a href="https://www.red-gate.com/blog/database-devops/redgate-embraces-open-source-with-its-ongoing-development-of-flyway">Go-to-market</a>. 
+
 #### Currently
 
-I work on product strategy and revenue growth for [flywaydb.org](https://flywaydb.org/), commercial Open Source software used by tens of thousands of development teams.
+I work at Redgate on building a product-led growth strategy for [Flywaydb](https://flywaydb.org/), commercial Open Source software used by 150,000 developers.
 
 In my spare time I like to write; for independent software developers <a href="https://gitacquired.org">preparing for acquisition</a>, and about the principles of <a href="https://designance.substack.com">design and finance</a>. 
-
-#### Previously
-I led the new product development team that created <a href="https://spawn.cc">spawn.cc</a>, and helped <a href="https://twitter.com/geomonitors" target="_blank">@geomonitors</a> move to a user-centered design process, enabling them to deliver <a href="https://twitter.com/@askcosy" target="_blank">@askcosy</a> for <a href="https://www.first-utility.com/cosy" target="_blank">first:utility</a>.
-
