@@ -12,7 +12,7 @@ title: Hi 👋
 <h1>I'm Jonathan. <span style="font-weight: 300">I help companies research their ideas, design great products, and create successful businesses.</span></h1>
 <br/>
 
-I specialise in the research and development of commercial strategies that bring revenue growth from <a href="https://www.realwire.com/releases/Redgate-cements-position-as-leading-vendor-with-Flyway-acquisition">M&amp;A</a>, through <a href="https://spawn.cc">New Product Development</a>, and from improved <a href="https://www.red-gate.com/blog/database-devops/redgate-embraces-open-source-with-its-ongoing-development-of-flyway">Go-to-market</a>. 
+I specialise in the research and development of commercial strategies that bring revenue growth through <a href="https://www.realwire.com/releases/Redgate-cements-position-as-leading-vendor-with-Flyway-acquisition">M&amp;A</a>, from <a href="https://spawn.cc">New Product Development</a>, and via improved <a href="https://www.red-gate.com/blog/database-devops/redgate-embraces-open-source-with-its-ongoing-development-of-flyway">Go-to-market</a>. 
 
 #### Currently
 
