@@ -4,7 +4,7 @@
 
 layout: home
 exclude: true 
-title: Hi 👋
+title: Commercial strategy, research and design
 ---
 <!-- 
 <img src="{{ site.baseurl }}/images/me-circle.png" class="avatar"/> -->
