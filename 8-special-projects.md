@@ -1,35 +1,23 @@
 ---
 layout: page
-title: Special Projects ($)
+title: Special Projects
 permalink: /special-projects/
 ---
 
 # Special Projects
 
-Special Projects provide data and insight for decision-making. They help early-stage projects, products and companies answer difficult, ambiguous questions. 
+Special Projects help early-stage projects, product and companies answer difficult questions by providing decision-making data and insight. 
 
-<a href="">Featured</a> • <a href="">All projects</a> • <a href="">How it works</a> • <a href="">FAQs</a> 
+**Featured**
 
-### Featured
-
-
-![]({{ site.baseurl }}/images/office-hours.png) <br/> <button class="button-56" role="button" onclick="window.location.href='https://robertswork.gumroad.com';">Sponsor</button> 
-
-### All projects
-
-<ul class="article-list">
-{% for post in site.categories.special-projects %}
-<li>
-<h4><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></h4>
-<p><strong>{{ post.date | date_to_long_string }}</strong> – ⏱ {{ post.readtime }}</p>
-<p>{{ post.abstract }}<a href="{{ site.baseurl }}{{ post.url }}" title="Continue reading"> ...read → </a></p>
-</li>
-{% endfor %}
-</ul>
+- [Go-to-market for companies in the AI space](https://ai.roberts.work)
+- [M&A for indie software devlopers](https://gitacquired.org)
 
 <hr/>
 
-### Special Projects provide decision-making insight
+<a name="about"></a>
+## About Special projects
+### Get decision-making insight
 
 Special Projects have a theme, a proposal and a report:
 
@@ -37,17 +25,13 @@ Special Projects have a theme, a proposal and a report:
 - A Proposal is the outline of the question(s) I'm setting out to answer: "*What's the best go-to-market motion for NLP for developers?*", or "*What strategy provides the best return for bootstrapped founders getting acquired?*"
 - A Report is the write up of the project, complete with data that provides decision-making guidance
 
-I undertake each Special Project when the sponsorship target is reached.
-
-### Special Projects are for early-stage companies  
+### Insight for early-stage companies  
 
 Special Projects are particularly valuable to early-stage projects, products and companies that don't have the time, skills or staff to focus on the problem full-time.
 
 As a sponsor, you get first access to the results of the research project, giving you actionable insight and alpha over your competitors. You also get the raw data to run your own analysis later.
 
 Six months after the project is complete, I make the report generally available for anyone to purchase.
-
-[Show me the projects](https://projects.roberts.work)
 
 <hr/>
 
@@ -62,5 +46,5 @@ Yes. I want you to be able to use the report / data to make some business decisi
 ##### Can I suggest a research project?
 You can; I have a process for shaping Special Project hypotheses that I can work through with you, just send me an email, jonathan[@]roberts.work.
 ##### How did 'Special Projects' come about?
-I've been working on early-stage products and companies for the majority of my career and I wanted to start my own business. A lot of early-stage companies I've met need the sort of research I can undertake, but are unable to justify an full-time employee to do it. The commercial model (ie. sponsorshup format) and name was inspired by Craig Mod.
+I've been working on early-stage products and companies for the majority of my career and I wanted to start my own business. A lot of early-stage companies I've met need the sort of research I can undertake, but are unable to justify an full-time employee to do it. The commercial model (ie. sponsorship format) and name was inspired by Craig Mod.
 
