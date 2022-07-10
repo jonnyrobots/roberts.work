@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Articles
+title: Archive
 permalink: /articles/
+exclude: true
 ---
 
 <h2>Articles</h2>
