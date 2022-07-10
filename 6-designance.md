@@ -2,6 +2,7 @@
 layout: page
 title: Newsletter
 permalink: /designance/
+exclude: true
 ---
 
 # Designance
