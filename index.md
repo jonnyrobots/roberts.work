@@ -14,7 +14,7 @@ title: Commercial strategy, research and design
 <ul class="article-list">
 {% for post in site.categories.article %}
 <li>
-<a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a> <span>{{ post.date | date: "%d %b %y" }}</span>
+<span class="postname"><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></span><span class="timestamp">{{ post.date | date: "%d %b %y" }}</span>
 </li>
 {% endfor %}
 </ul>

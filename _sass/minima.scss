@@ -238,8 +238,16 @@ ul.article-list li {
   margin: 0 0 2em 0;
 }
 
-ul.article-list span {
+ul.article-list span.timestamp {
   float: right;
+  width: 25%;
+  text-align: right;
+}
+
+ul.article-list span.postname {
+  display: inline-block;
+  width: 75%;
+  text-align: left;
 }
 
 ul.article-list li h4 {
