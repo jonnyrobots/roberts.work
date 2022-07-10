@@ -10,8 +10,8 @@ Special Projects help early-stage projects, product and companies answer difficu
 
 **Featured**
 
-- [Go-to-market for companies in the AI space](https://ai.roberts.work)
-- [M&A for indie software devlopers](https://gitacquired.org)
+- 📑 [Mapping the AI market](https://ai.roberts.work)
+- 📒 [M&A for indie software devlopers](https://gitacquired.org)
 
 <hr/>
 
