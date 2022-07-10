@@ -234,7 +234,6 @@ ul.article-list {
 }
 
 ul.article-list li {
-  border-bottom: 1px solid #eee; 
   list-style: none; 
   margin: 0 0 2em 0;
 }
@@ -338,15 +337,16 @@ p.disclaim {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {background: #1e1e1e;color: #c9c9c9}
-  p {color: #c9c9c9}
-  a {color: #f58984; text-decoration: none;}
-  a:hover {color: #f58984;}
+  body {background: #151516; color: #aeaeae}
+  p {color: #aeaeae}
+  a {color: #d3d3d3; text-decoration: none;}
+  h1, h2, h3, h4, h5, h6 {color: #cfcfcf}
+  a:hover {color: #f48883;}
   a:active {background-color:#111111; color: #f58984;}
   a.logoLink {color: #e9f4f4;}
-  .header {background-color:#1e1e1e}
-  ul.article-list li {border-bottom: 1px solid #414141}
+  .header {background-color:#151516}
   hr {border: 1px solid #414141}
+  ul li a, p a {border-bottom: 1px dotted}
   ul.newsletter h3 {color: #f58984}
   ul.newsletter li span {border: 1px solid #414141;  box-shadow: none }
   .Navbar {color: #c9c9c9;}
