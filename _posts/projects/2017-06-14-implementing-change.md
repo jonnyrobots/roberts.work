@@ -4,6 +4,7 @@ title:  "Leading the change to a standardised design tool"
 date:   2017-03-17 19:31:12 +0000
 categories: project
 tags: [design leadership] 
+exclude: true
 ---
 
 Making the design process more efficient with Sketch 

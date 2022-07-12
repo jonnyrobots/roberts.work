@@ -4,6 +4,7 @@ title:  "Introducing a development team to Lean UX"
 date:   2016-05-01 19:31:12 +0000
 categories: project
 tags: [design leadership] 
+exclude: true
 ---
 
 Changing the UX methodology to reflect the needs of the project and team

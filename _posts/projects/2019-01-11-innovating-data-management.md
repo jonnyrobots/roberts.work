@@ -4,6 +4,7 @@ title:  "Product innovation"
 date:   2019-01-11 19:31:12 +0000
 categories: project
 tags: [new product development] 
+exclude: true
 ---
 
 From open-ended research project to technology innovation

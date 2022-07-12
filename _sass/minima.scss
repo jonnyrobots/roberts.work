@@ -260,9 +260,13 @@ ul.article-list li p {
 }
 
 p.disclaim {
-  font-size: .9em;
+  font-size: .8em;
   text-align: center;
   margin: 4em 0 0;
+}
+
+p.disclaim a {
+  font-size: 1em;
 }
 
 :target::before {
@@ -271,6 +275,17 @@ p.disclaim {
   margin-top: -2.75em;
   height: 2.75em;
   width: 1px;
+}
+
+ol.breadcrumb {
+  list-style: none;
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+ol.breadcrumb li {
+  display: inline-block;
+  margin: 0;
 }
 
 /*button*/
@@ -336,7 +351,7 @@ p.disclaim {
   margin:10px 3px;
   border-radius: 3px;
   }
-  
+
 
 @media (min-width: 768px) {
   .button-56 {
@@ -349,17 +364,17 @@ p.disclaim {
   p {color: #aeaeae}
   a {color: #d3d3d3; text-decoration: none;}
   h1, h2, h3, h4, h5, h6 {color: #cfcfcf}
-  a:hover {color: #f48883;}
-  a:active {background-color:#111111; color: #f58984;}
+  a:hover {color: #fefefe;}
+  a:active {background-color:#111111; color: #d3d3d3;}
   a.logoLink {color: #e9f4f4;}
   .header {background-color:#151516}
   hr {border: 1px solid #414141}
-  ul li a, p a {border-bottom: 1px dotted}
-  ul.newsletter h3 {color: #f58984}
+  ul li a, p a, ol a {border-bottom: 1px dotted}
+  ul.newsletter h3 {color: #cfcfcf}
   ul.newsletter li span {border: 1px solid #414141;  box-shadow: none }
   .Navbar {color: #c9c9c9;}
   .Navbar__ToggleShow {background: #313131;}
   .social a {color: #c9c9c9}
-  .button-56:after {background-color: #f48883}
+  .button-56:after {background-color: #cfcfcf}
   .tagComplete {background: #111}
 }
