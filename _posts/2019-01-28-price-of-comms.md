@@ -4,7 +4,7 @@ title:  "Comms: the price of communication"
 abstract: The effect of communication on stakeholder management
 date:   2019-01-28 15:31:12 +0000
 readtime: 4 minutes
-categories: article
+categories: Article
 ---
 
 **Foreward**

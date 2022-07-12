@@ -5,7 +5,7 @@ abstract: More research into the commercial models behind commercial Open Source
 permalink: /articles/forming-and-operating-coss/
 date:   2021-03-03 21:03:00 +0000
 readtime: 15 minutes
-categories: article
+categories: Article
 ---
 
 # Forming & operating an OSS business 

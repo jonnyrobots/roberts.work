@@ -4,7 +4,7 @@ title:  "The evolution of theses"
 subtitle: "No.002 Developing the core of a strategy"
 permalink: /designance/002-evolution-of-theses
 date:   2020-02-09 20:45:59 +0000
-categories: designance
+categories: Designance
 image: <img src="/images/thesis.png"/> 
 ---
 

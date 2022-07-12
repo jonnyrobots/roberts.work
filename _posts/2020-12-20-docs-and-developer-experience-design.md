@@ -4,7 +4,7 @@ title:  "Docs and Developer Experience Design"
 abstract:  How to provide a good Developer Experience with documentation
 permalink: /articles/docs-and-dev-experience-design/
 date:   2020-12-20 21:30:00 +0000
-categories: article
+categories: Article
 readtime: 5 minutes
 ---
 

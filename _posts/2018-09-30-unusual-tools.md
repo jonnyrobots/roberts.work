@@ -4,7 +4,7 @@ title:  "Writing code: an unusual tool for research"
 abstract: How writing is fundamental to the product development process
 date:   2018-09-30 19:31:12 +0000
 readtime: 9 minutes
-categories: article
+categories: Article
 ---
 
 

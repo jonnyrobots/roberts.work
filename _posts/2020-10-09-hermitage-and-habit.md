@@ -3,7 +3,7 @@ layout: post
 title:  "Hermitage and habit"
 subtitle: "No.004 - The importance of persistence"
 date:   2020-10-09 08:08:08 +0000
-categories: designance
+categories: Designance
 permalink: /designance/004-hermitage-and-habit
 image: <img src="/images/festivals.png"/> 
 readtime: 15 minutes

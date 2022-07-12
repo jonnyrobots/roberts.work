@@ -4,7 +4,7 @@ title:  "Capturing value as a COSS business"
 abstract:  A conversation with Joseph Jacks (OSS Captial) about the challenges of capturing value as a commercial open source business.
 permalink: /articles/coss-challenges/
 date:   2021-02-01 21:30:00 +0000
-categories: article
+categories: Article
 readtime: 15 minutes
 ---
 

@@ -4,7 +4,7 @@ title:  "Working asynchronously"
 permalink: /articles/working-asynchronously/
 abstract:  A template for reducing Zoom time
 date:   2020-06-15 11:00:00 +0000
-categories: article
+categories: Article
 readtime: 3 minutes
 ---
 
