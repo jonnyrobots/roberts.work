@@ -14,4 +14,4 @@ Designance is a newsletter I write while exploring the principles of design and 
 
 Subscribe to get the latest instalment delivered straight to your inbox, or read the archive below. And if you like what you're reading, consider forwarding it to a friend.
 
-<button class="button-56" role="button" onclick="window.location.href='https://roberts.work/designance';">View project</button>
+<button class="button-56" role="button" onclick="window.location.href='https://designance.substack.com';">View project</button>
