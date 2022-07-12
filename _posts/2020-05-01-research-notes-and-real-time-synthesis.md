@@ -5,7 +5,7 @@ abstract: A method for remote research
 permalink: /articles/research-with-realtime-synthesis
 date:   2020-05-01 10:31:12 +0000
 readtime: 6 minutes
-categories: article
+categories: Article
 ---
 
 # Research with real-time synthesis

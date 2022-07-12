@@ -4,7 +4,7 @@ title:  "Principles and values"
 abstract: What to do when things don't seem right
 date:   2019-08-31 10:31:12 +0000
 readtime: 2 minutes
-categories: article
+categories: Article
 ---
 
 # Principles and values

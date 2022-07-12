@@ -15,7 +15,7 @@ exclude: true
 ### Archive
 
 <ul class="newsletter">
-{% for post in site.categories.designance %}
+{% for post in site.categories.Designance %}
     <li>
         <a href="{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title }}">
             <span>

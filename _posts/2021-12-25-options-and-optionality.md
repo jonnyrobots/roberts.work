@@ -3,7 +3,7 @@ layout: post
 title:  "Options and optionality"
 subtitle: "No.005 - The privilege of choice"
 date:   2021-12-13 09:09:09 +0000
-categories: designance
+categories: Designance
 permalink: /designance/005-options-and-optionality
 image: <img src="/images/moneyland.png"/> 
 readtime: 15 minutes

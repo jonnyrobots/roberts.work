@@ -10,7 +10,7 @@ exclude: true
 ### On research, design & development
 
 <ul class="article-list">
-{% for post in site.categories.article %}
+{% for post in site.categories.Article %}
 <li>
 <h4><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></h4>
 <p><strong>{{ post.date | date_to_long_string }}</strong> – ⏱ {{ post.readtime }}</p>

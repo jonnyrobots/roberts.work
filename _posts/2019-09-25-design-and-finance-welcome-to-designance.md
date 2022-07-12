@@ -4,7 +4,7 @@ title:  "Design and finance?"
 subtitle: "No.001 Welcome to Designance"
 permalink: /designance/001-welcome
 date:   2019-09-25 21:45:59 +0000
-categories: designance
+categories: Designance
 image: <img src="/images/designance.png"/> 
 ---
 

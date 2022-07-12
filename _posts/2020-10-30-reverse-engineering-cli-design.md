@@ -4,7 +4,7 @@ title:  "Reverse engineering CLI design"
 abstract:  What makes a good CLI design
 permalink: /articles/reverse-engineering-cli-design/
 date:   2020-11-02 21:30:00 +0000
-categories: article
+categories: Article
 readtime: 5 minutes
 ---
 
