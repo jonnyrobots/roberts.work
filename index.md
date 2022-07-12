@@ -13,11 +13,15 @@ Insight for people working on early- and growth-stage products
 
 ### Writing
 
+
+
 <ul class="article-list">
-{% for post in site.categories.article %}
+{% for post in site.posts %}
+{% unless post.unlisted %}
 <li>
 <span class="postname"><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></span><span class="timestamp">{{ post.date | date: "%d %b %y" }}</span>
 </li>
+{% endunless %}
 {% endfor %}
 </ul>
 

@@ -5,6 +5,7 @@ date: 2019-09-25 19:31:12 +0000
 categories: project
 tags: [design] 
 permalink: projects/designance
+unlisted: true
 ---
 
 # Designance
