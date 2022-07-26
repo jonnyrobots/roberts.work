@@ -271,7 +271,7 @@ p.disclaim a {
 
 :target::before {
   content: "";
-  display: block;
+  display: inle-block;
   margin-top: -2.75em;
   height: 2.75em;
   width: 1px;
@@ -377,4 +377,10 @@ ol.breadcrumb li {
   .social a {color: #c9c9c9}
   .button-56:after {background-color: #cfcfcf}
   .tagComplete {background: #111}
+}
+
+sup .footnote {
+  font-size: 0.8em; 
+  color: #fc3437;
+  text-decoration: none;
 }
