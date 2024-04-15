@@ -16,7 +16,7 @@ Insight from working on early- and growth-stage products
 
 
 <ul class="article-list">
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
 {% unless post.unlisted %}
 <li>
 <span class="postname"><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></span><span class="timestamp">{{ post.date | date: "%d %b %y" }}</span>
