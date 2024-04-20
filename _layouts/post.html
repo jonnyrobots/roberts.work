@@ -3,22 +3,20 @@ layout: "wrapper"
 ---
 
 <ol class="breadcrumb">
-    <li><a href="/">Writing</a> >
+    <li><a href="/">All</a> >
     <li> {{ page.title }}</li>
 </ol>
 
-
-<iframe src="https://embeds.beehiiv.com/713db3ef-4447-4b6f-8670-a9fcf96f33dd?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
-
-
 <p class="postdate">
-👨‍💻 Jonathan Roberts {{ page.assistant }}<br/>
-🗓 {{ page.date | date_to_long_string }} <br/>
-⏱ {{ page.readtime }} <br/>
-🏷 {{ page.categories }}
+🗓 {{ page.date | date_to_long_string }}
 </p>
 
 {{ content }}
+<br/>
+
+<hr/>
+<h3>Get notified of new posts</h3>
+<iframe src="https://embeds.beehiiv.com/713db3ef-4447-4b6f-8670-a9fcf96f33dd?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 
 <p class="disclaim">© Jonathan Roberts {{ page.date | date: "%Y" }}<br/>
     I occasionally update articles to fix typos, improve readability or modify content when new information is available to me: <a href="https://github.com/jonnyrobots/roberts.work/commits/gh-pages/{{page.path | replace:'.html','.md'}}">view revisions for this article</a>
