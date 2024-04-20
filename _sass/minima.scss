@@ -13,7 +13,7 @@ a.logoLink {color: #292d2d;}
 body {padding: 0em; margin: 0;}
 
 img {display: block; margin: 0 auto; max-width: 80%; height: auto; width: auto\9; /* ie8 */}
-
+img.logo {max-width:100%; width:56px; height:56px;}
 figure {padding: 0; margin: 0 0 2em;}
 figcaption {font-size: .6em; padding: 1em 0 0 ; font-style: italic; text-align: center; }
 figcaption a {font-size: 1em}
@@ -158,13 +158,13 @@ td, thead, th {padding: 0.8em; text-align: center;}
     }
     .Navbar__Items--center {
         
-        margin: 10px 0 ;
-        padding: 10px 0;
+        margin: 0px 0 ;
+        padding: 0px 0;
         
     }
 
     .Navbar__Items {
-      display:none;
+     
     }
     .Navbar__Items--right {
       margin-left:0;
