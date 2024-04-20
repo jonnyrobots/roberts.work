@@ -11,10 +11,6 @@ Insight from working on early- and growth-stage products
 
 <iframe src="https://embeds.beehiiv.com/713db3ef-4447-4b6f-8670-a9fcf96f33dd?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 
-### Latest
-
-
-
 <ul class="article-list">
 {% for post in site.posts limit:1 %}
 {% unless post.unlisted %}
