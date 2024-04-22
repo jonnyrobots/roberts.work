@@ -7,6 +7,14 @@
         <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script data-goatcounter="https://robots.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:type" content="article" />
+        <meta property="og:description" content="{{ page.subtitle }}">
+        <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}">
+        <meta property="og:url" content="{{ site.baseurl }}{{ page.permalink }}">
+        <meta name="twitter:card" content="summary_large_image">
+
         <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png"> 
         <title>Roberts: {{ page.title }}</title>
     </head>
