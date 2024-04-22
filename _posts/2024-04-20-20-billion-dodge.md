@@ -2,6 +2,7 @@
 layout: post
 title: "$20 billion dollar dodge"
 subtitle: "Did Adobe dodge a $20 billion toll road to nowhere?"
+image: /images/adobe.png
 date: 2024-04-20 06:09:22 +0000
 categories: Article
 permalink: /articles/billion-dollar-dodge
