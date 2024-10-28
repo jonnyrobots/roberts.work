@@ -3,7 +3,7 @@ layout: post
 title: "Leaving Docker"
 subtitle: "So long, and thanks for all the swag"
 image: /images/dog.jpg
-date: 2024-04-20 06:09:22 +0000
+date: 2024-10-28 14:00:00 +0000
 categories: Article
 permalink: /articles/leaving-docker
 readtime: 1 minute
